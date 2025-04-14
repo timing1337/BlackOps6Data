@@ -1,0 +1,14 @@
+top,plunderBalloon,ui_map_icon_cash_balloon,BattleRoyale.BRPocketPlunder,0,,0,,,0,0
+top,atmCache,ui_map_icon_atm,BattleRoyale.BRPocketPlunder,0,,A6B7002B1A7FEF73,,,0,0
+top,topEarner,ui_map_icon_marked_leader,IW9StyleGuide.styleGuideMatchEnemyHighlight,0,,0,,,0,0
+top,cashHoarder,ui_map_icon_top_earners,IW9StyleGuide.styleGuideMatchEnemyHighlight,0,,0,,,0,0
+top,plunderChopper,hud_icon_minimap_vehicle_heli_blima,IW9StyleGuide.styleGuideFeatured01,0,,0,,,0,0
+top,plunderDrop,ui_map_icon_cash_drop,IW9StyleGuide.styleGuideFeatured01,0,,0,,,0,0
+middle,trophyUploadStation,ui_map_icon_trophy_s03,,0,,A8673F69D0431388,,,0,0
+middle,armoryKiosk,ui_map_icon_poi_shop,,0,,880384E6DFE250BA,,,0,0
+middle,weaponTradeStation,ui_map_icon_poi_weapontrader,,0,1,708738AE7DCB76AF,,,0,0
+middle,ammocache,ui_map_icon_ammo_cache,,0,,0,,,0,0
+middle,fortress,ui_map_icon_stronghold,,0,,9ADEC631E1EEE04A,,,0,0
+middle,abandonedCache,ui_map_icon_loot_cache,BattleRoyale.BRPocketPlunder,0,,4AF62E57F66D060B,,,0,0
+middle,redeployDrone,ui_map_icon_redeploy_drone,,0,,EB0811EAD28C4F53,,,0,0
+bottom,contracts,,,0,1,0,,,0,0

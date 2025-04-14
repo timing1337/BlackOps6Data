@@ -1,0 +1,76 @@
+48988,cer_leagueplay_s1_sd_placement,311,0,0,4|7|10|13|16|19,72224|72183+87537|72184+87538|72185+87539|72186+87540|72187+87541,,,,Season End SD,Season End SD,1,,,,0,0
+48989,cer_leagueplay_s2_sd_placement,311,0,0,4|7|10|13|16|19,72190|93288+90127|72191+90128|72192+90129|72193+90130|72194+90131,,,,Season End SD,Season End SD,2,,,,0,0
+48990,cer_leagueplay_s3_sd_placement,311,0,0,4|7|10|13|16|19,93287|72198+96072|72199+96289|72200+96380|72201+96478|72202+96785,,,,Season End SD,Season End SD,3,,,,0,0
+48991,cer_leagueplay_s4_sd_placement,311,0,0,1|4|7|10|13|16|19,,,,,Season End SD,Season End SD,4,,,,0,0
+48992,cer_leagueplay_s5_sd_placement,311,0,0,1|4|7|10|13|16|19,,,,,Season End SD,Season End SD,5,,,,0,0
+48993,cer_leagueplay_s6_sd_placement,311,0,0,1|4|7|10|13|16|19,,,,,Season End SD,Season End SD,6,,,,0,0
+37172,cer_leagueplay_s1_end_season_top250_placement,311,0,0,1|250,72189|72188+87542,,,,Season End Top250,Season End Top250,1,,,,0,0
+37171,cer_leagueplay_s2_end_season_top250_placement,311,0,0,1|250,72196|72195+90132,,,,Season End Top250,Season End Top250,2,,,,0,0
+37170,cer_leagueplay_s3_end_season_top250_placement,311,0,0,1|250,73610|72203+96669,,,,Season End Top250,Season End Top250,3,,,,0,0
+37169,cer_leagueplay_s4_end_season_top250_placement,311,0,0,1|250,,,,,Season End Top250,Season End Top250,4,,,,0,0
+37168,cer_leagueplay_s5_end_season_top250_placement,311,0,0,1|250,,,,,Season End Top250,Season End Top250,5,,,,0,0
+37167,cer_leagueplay_s6_end_season_top250_placement,311,0,0,1|250,,,,,Season End Top250,Season End Top250,6,,,,0,0
+48987,cer_leagueplay_career_sd_placement,311,0,0,7|10|13|16|19,88464+88450|88463+88449|88462+88448|88461+88447|88465+88451,,,,Career Season End SD,Career Season End SD,<NOT SET>,,,,0,0
+48340,cer_leagueplay_career_end_season_top250_placement,311,0,0,1|250,88459+88445|88460+88446,,,,Career Season End SD,Career Season End SD,<NOT SET>,,,,0,0
+47960,cer_leagueplay_career_challenge_wins,311,0,0,5|10|20|30|40|50|100|250|500|1000,69140|88435+88433|90864|90383|86477|90125|90878|83231|85316|88710+69141,,,,,,<NOT SET>,,,,0,0
+37166,cer_leagueplay_s1_challenge_wins,311,0,0,10|100,89404|90571,,,,Seasonal,Seasonal,1,,,,0,0
+37165,cer_leagueplay_s2_challenge_wins,311,0,0,10|100,93908|93330,,,,Seasonal,Seasonal,2,,,,0,0
+37164,cer_leagueplay_s3_challenge_wins,311,0,0,10|100,96298|96772,,,,Seasonal,Seasonal,3,,,,0,0
+37163,cer_leagueplay_s4_challenge_wins,311,0,0,5|10|25|50|75|100,,,,,Seasonal,Seasonal,4,,,,0,0
+37162,cer_leagueplay_s5_challenge_wins,311,0,0,5|10|25|50|75|100,,,,,Seasonal,Seasonal,5,,,,0,0
+37161,cer_leagueplay_s6_challenge_wins,311,0,0,5|10|25|50|75|100,,,,,Seasonal,Seasonal,6,,,,0,0
+48818,cer_leagueplay_unlock,311,0,0,50,,,,,,,<NOT SET>,,,,0,0
+50315,cer_leagueplay_user_state_fixup,311,0,0,,,,,,,,<NOT SET>,,,,0,0
+52039,cer_leagueplay_unlock_seasonal,311,0,0,,,,,,,,<NOT SET>,,,,0,0
+49003,cer_wz_leagueplay_s1_sd_placement,338,0,0,4|7|10|13|16|19,69210+88485+90111|88476+88486+90109|88475+88487+90110|88474+88488+90112|88477+88489+90113+90115|88478+88490+90114,,,,Season End SD,Season End SD,1,,,,1,0
+49004,cer_wz_leagueplay_s2_sd_placement,338,0,0,4|7|10|13|16|19,69113|69114+93305|69115+93280|69116+93302|69117+93310|69119+93283,,,,Season End SD,Season End SD,2,,,,1,0
+49005,cer_wz_leagueplay_s3_sd_placement,338,0,0,4|7|10|13|16|19,95611|95606+95601|95613+95603|95608+95604|95607+95602|95610+95600,,,,Season End SD,Season End SD,3,,,,1,0
+49006,cer_wz_leagueplay_s4_sd_placement,338,0,0,1|4|7|10|13|16|19,84680|84680|84680|84680|84680|84680|84680,,,,Season End SD,Season End SD,4,,,,1,0
+49007,cer_wz_leagueplay_s5_sd_placement,338,0,0,1|4|7|10|13|16|19,84680|84680|84680|84680|84680|84680|84680,,,,Season End SD,Season End SD,5,,,,1,0
+49008,cer_wz_leagueplay_s6_sd_placement,338,0,0,1|4|7|10|13|16|19,84680|84680|84680|84680|84680|84680|84680,,,,Season End SD,Season End SD,6,,,,1,0
+37211,cer_wz_leagueplay_s1_end_season_top250_placement,338,0,0,1|250,69202|88479+88491,,,,Season End Top250,Season End Top250,1,,,,1,0
+37210,cer_wz_leagueplay_s2_end_season_top250_placement,338,0,0,1|250,69120|69118+93296,,,,Season End Top250,Season End Top250,2,,,,1,0
+37209,cer_wz_leagueplay_s3_end_season_top250_placement,338,0,0,1|250,95609|95612+95605,,,,Season End Top250,Season End Top250,3,,,,1,0
+37208,cer_wz_leagueplay_s4_end_season_top250_placement,338,0,0,1|250,84680|84680,,,,Season End Top250,Season End Top250,4,,,,1,0
+37207,cer_wz_leagueplay_s5_end_season_top250_placement,338,0,0,1|250,84680|84680,,,,Season End Top250,Season End Top250,5,,,,1,0
+37206,cer_wz_leagueplay_s6_end_season_top250_placement,338,0,0,1|250,84680|84680,,,,Season End Top250,Season End Top250,6,,,,1,0
+37223,cer_wz_leagueplay_s1_challenge_kills,338,0,0,5|50|250,90124|86476|89372,,,,Seasonal,Seasonal,1,,,,1,0
+37222,cer_wz_leagueplay_s2_challenge_kills,338,0,0,25|100|250,92383|93392|92090,,,,Seasonal,Seasonal,2,,,,1,0
+37221,cer_wz_leagueplay_s3_challenge_kills,338,0,0,5|50|250,95615|96347|94115,,,,Seasonal,Seasonal,3,,,,1,0
+37220,cer_wz_leagueplay_s4_challenge_kills,338,0,0,5|50|250,84680|84680|84680,,,,Seasonal,Seasonal,4,,,,1,0
+37219,cer_wz_leagueplay_s5_challenge_kills,338,0,0,5|50|250,84680|84680|84680,,,,Seasonal,Seasonal,5,,,,1,0
+37218,cer_wz_leagueplay_s6_challenge_kills,338,0,0,5|50|250,84680|84680|84680,,,,Seasonal,Seasonal,6,,,,1,0
+37224,cer_wz_leagueplay_s1_challenge_placement_top15,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,1,,,,1,0
+37225,cer_wz_leagueplay_s2_challenge_placement_top15,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,2,,,,1,0
+37226,cer_wz_leagueplay_s3_challenge_placement_top15,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,3,,,,1,0
+37227,cer_wz_leagueplay_s4_challenge_placement_top15,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,4,,,,1,0
+37229,cer_wz_leagueplay_s5_challenge_placement_top15,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,5,,,,1,0
+37228,cer_wz_leagueplay_s6_challenge_placement_top15,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,6,,,,1,0
+37232,cer_wz_leagueplay_s1_challenge_placement_top5,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,1,,,,1,0
+37233,cer_wz_leagueplay_s2_challenge_placement_top5,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,2,,,,1,0
+37234,cer_wz_leagueplay_s3_challenge_placement_top5,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,3,,,,1,0
+37235,cer_wz_leagueplay_s4_challenge_placement_top5,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,4,,,,1,0
+37236,cer_wz_leagueplay_s5_challenge_placement_top5,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,5,,,,1,0
+37237,cer_wz_leagueplay_s6_challenge_placement_top5,338,0,0,25,,2500,2500,2500,Seasonal,Seasonal,6,,,,1,0
+37238,cer_wz_leagueplay_s1_challenge_placement_top1,338,0,0,1,88740,2500,2500,2500,Seasonal,Seasonal,1,,,,1,0
+37239,cer_wz_leagueplay_s2_challenge_placement_top1,338,0,0,1,91976,2500,2500,2500,Seasonal,Seasonal,2,,,,1,0
+37240,cer_wz_leagueplay_s3_challenge_placement_top1,338,0,0,1,,2500,2500,2500,Seasonal,Seasonal,3,,,,1,0
+37241,cer_wz_leagueplay_s4_challenge_placement_top1,338,0,0,1,,2500,2500,2500,Seasonal,Seasonal,4,,,,1,0
+37242,cer_wz_leagueplay_s5_challenge_placement_top1,338,0,0,1,,2500,2500,2500,Seasonal,Seasonal,5,,,,1,0
+37243,cer_wz_leagueplay_s6_challenge_placement_top1,338,0,0,1,,2500,2500,2500,Seasonal,Seasonal,6,,,,1,0
+37259,cer_wz_leagueplay_s1_sr_challenge_kills,338,0,0,1|10|25|50|100,,,,,Seasonal,Seasonal,1,,,,1,0
+37258,cer_wz_leagueplay_s2_sr_challenge_kills,338,0,0,1|10|25|50|100,,,,,Seasonal,Seasonal,2,,,,1,0
+37257,cer_wz_leagueplay_s3_sr_challenge_kills,338,0,0,1|10|25|50|100,,,,,Seasonal,Seasonal,3,,,,1,0
+37256,cer_wz_leagueplay_s4_sr_challenge_kills,338,0,0,1|10|25|50|100,,,,,Seasonal,Seasonal,4,,,,1,0
+37255,cer_wz_leagueplay_s5_sr_challenge_kills,338,0,0,1|10|25|50|100,,,,,Seasonal,Seasonal,5,,,,1,0
+37254,cer_wz_leagueplay_s6_sr_challenge_kills,338,0,0,1|10|25|50|100,,,,,Seasonal,Seasonal,6,,,,1,0
+49009,cer_wz_leagueplay_career_sd_placement,338,0,0,7|10|13|16|19,88471+90135|88470+90136|88469+90137|88468+90138|88472+90139,,,,Career Season End SD,Career Season End SD,<NOT SET>,,,,1,0
+37252,cer_wz_leagueplay_s1_sr_challenge_placement,338,0,0,1|5|10|20,,,,,Seasonal,Seasonal,1,,,,1,0
+37250,cer_wz_leagueplay_s2_sr_challenge_placement,338,0,0,1|5|10|20,,,,,Seasonal,Seasonal,2,,,,1,0
+37249,cer_wz_leagueplay_s3_sr_challenge_placement,338,0,0,1|5|10|20,,,,,Seasonal,Seasonal,3,,,,1,0
+37248,cer_wz_leagueplay_s4_sr_challenge_placement,338,0,0,1|5|10|20,,,,,Seasonal,Seasonal,4,,,,1,0
+37247,cer_wz_leagueplay_s5_sr_challenge_placement,338,0,0,1|5|10|20,,,,,Seasonal,Seasonal,5,,,,1,0
+37246,cer_wz_leagueplay_s6_sr_challenge_placement,338,0,0,1|5|10|20,,,,,Seasonal,Seasonal,6,,,,1,0
+48373,cer_wz_leagueplay_career_end_season_top250_placement,338,0,0,1|250,88466|88467+90140,,,,Career Season End SD,Career Season End SD,<NOT SET>,,,,1,0
+49001,cer_wz_leagueplay_unlock,338,0,0,20,,,,,,,<NOT SET>,,,,1,0
+48392,cer_wz_leagueplay_career_challenge_placement,338,0,0,5|10|20|50|100|150|250|300,88480|88436|91476|90142|89024|90143|90126|90116+90071,,,,,,<NOT SET>,,,,1,0

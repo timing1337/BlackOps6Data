@@ -1,0 +1,5 @@
+ui_zm_cranked_time,1,,c,i,0,0,1000000,,,,,1,,
+ui_zm_cranked_time_max,1,,c,i,1,1,1000000,,,,,1,,
+ui_zm_cranked_time_vis,1,,c,b,0,0,1,,,,,1,,
+ui_zm_cranked_time_added_notify,1,,c,n,,,,,,,,1,,
+ui_zm_cranked_time_powerup_notify,1,,c,n,,,,,,,,1,,

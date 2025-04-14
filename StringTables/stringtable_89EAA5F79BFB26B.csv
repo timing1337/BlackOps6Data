@@ -1,0 +1,9 @@
+atv,0,hud_icon_vehicle_atv,ui_veh_atv_camo_preview_000,ui_veh_atv_v000_preview,0,0,0,0
+jeep,0,hud_icon_vehicle_jeep,ui_veh_jeep_camo_preview_000,ui_veh_jeep_camo_showcase_000,0,0,0,0
+tac_rover,0,hud_icon_vehicle_tac_rover,ui_veh_tac_rover_camo_preview_000,ui_veh_tac_rover_camo_showcase_000,0,0,0,0
+cargo_truck,0,hud_icon_vehicle_cargo_truck,ui_veh_truck_camo_preview_000,ui_veh_cargo_truck_v000_preview,0,0,0,0
+little_bird,0,hud_icon_vehicle_little_bird,ui_veh_little_bird_camo_preview_000,ui_veh_heli_medium_v000_preview,0,0,0,0
+apc,0,hud_icon_vehicle_apc,ui_default_white,ui_veh_apc_8x8_v000_preview,0,0,0,0
+tank_west,0,hud_icon_vehicle_tank,ui_default_white,ui_veh_coscar_v000_preview,0,0,1,0
+tank_east,0,hud_icon_vehicle_tank_east,ui_default_white,ui_veh_coscar_v000_preview,0,0,1,0
+c130,0,hud_icon_vehicle_gunship,ui_default_white,frontend_streak_gunship,0,0,1,0

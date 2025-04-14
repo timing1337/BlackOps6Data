@@ -1,0 +1,4 @@
+ui_allies_lives_remaining,1,,g,i,0,0,100
+ui_axis_lives_remaining,1,,g,i,0,0,100
+ui_allies_no_respawn,1,,g,b,0,0,1
+ui_axis_no_respawn,1,,g,b,0,0,1

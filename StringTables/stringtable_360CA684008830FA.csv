@@ -1,0 +1,4 @@
+ui_pap_current_ammomod,1,,c,i,0,0,10,,,,,1,1,
+ui_current_weapon_tier,1,,c,i,0,0,6,,,,,1,1,
+ui_current_weapon_supports_ammo_mod,1,,c,b,0,0,1,,,,,1,,
+ui_current_weapon_supports_attachment_reroll,1,,c,b,0,0,1,,,,,1,,

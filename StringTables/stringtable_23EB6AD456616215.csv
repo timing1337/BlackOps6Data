@@ -1,0 +1,15 @@
+ui_hardpoint_timer,1,,g,t,0,,
+ui_hardpoint,1,,g,i,-1,-3,31
+ui_hp_callout_id,1,,g,i,-1,-1,50
+ui_hq_status,1,,g,i,-1,-1,12
+ui_capture_locked_zone_1,1,,g,b,0,,
+ui_capture_locked_zone_2,1,,g,b,0,,
+ui_capture_locked_zone_3,1,,g,b,0,,
+ui_capture_locked_zone_4,1,,g,b,0,,
+ui_capture_locked_zone_5,1,,g,b,0,,
+ui_capture_locked_zone_6,1,,g,b,0,,
+ui_capture_locked_zone_7,1,,g,b,0,,
+ui_capture_locked_zone_8,1,,g,b,0,,
+ui_capture_locked_zone_9,1,,g,b,0,,
+ui_capture_locked_zone_10,1,,g,b,0,,
+ui_hardpoint_active_zone_count,1,,g,i,0,0,3

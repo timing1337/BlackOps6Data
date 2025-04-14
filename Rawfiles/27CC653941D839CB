@@ -1,0 +1,598 @@
+                                          
+
+                               
+setStorageFile "leagueplayloadouts" "squadMembers" "defaultSet" 1
+setStorageFile "leagueplayloadouts" "squadMembers" "inUse" 1
+
+           
+
+
+setStorageFile "leagueplayloadouts" "customizationSetup" "radial" 0 210000
+setStorageFile "leagueplayloadouts" "customizationSetup" "radial" 1 190217
+setStorageFile "leagueplayloadouts" "customizationSetup" "radial" 2 190218
+setStorageFile "leagueplayloadouts" "customizationSetup" "radial" 3 190219
+setStorageFile "leagueplayloadouts" "customizationSetup" "radial" 4 190220
+setStorageFile "leagueplayloadouts" "customizationSetup" "radial" 5 190221
+setStorageFile "leagueplayloadouts" "customizationSetup" "radial" 6 190222
+setStorageFile "leagueplayloadouts" "customizationSetup" "radial" 7 190223
+
+setStorageFile "leagueplayloadouts" "customizationFavorites" "favoriteLoadoutIndex" 0
+
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "fender_western" "intro" 0
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "intro" 1
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "intro" 2
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "intro" 3
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "chili_western" "intro" 4
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "intro" 5
+
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "fender_western" "taunt" 0
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "taunt" 1
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "taunt" 2
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "taunt" 3
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "chili_western" "taunt" 4
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "taunt" 5
+
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "hutch_western" "skin" #x45163439f0449b3a9
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "kpop_eastern" "skin" #x4374c20500aaf7455
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "gus_western" "skin" #x445cf02ca48df582e
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "zimo_western" "skin" #x461d7cab2c72dcd26
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "kleo_western" "skin" #x4f37433da51d3f74
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "nova_eastern" "skin" #x41659d9435a56cbcf
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "price_western" "skin" #x4427b7a56d0b26c52
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "farah_western" "skin" #x448a89af37208d6ab
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "ghost_western" "skin" #x439543e23437af108
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "kpop_eastern" "skin" #x4374c20500aaf7455
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "milsim_western_1" "skin" #x419d82250b1e2285e
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "milsim_eastern_1" "skin" #x491761a43fc721c4
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "soap_western" "skin" #x4140eac49169d07f4
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "oni_eastern" "skin" #x43cdbe54b8fb2b18d
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "gromsko_western" "skin" #x46306feec5c2e64fb
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "reyes_western" "skin" #x4581fe1c983fd027f
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "luna_western" "skin" #x45a717a380a6f3425
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "roze_eastern" "skin" #x4255d973c0df30fe3
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "zero_eastern" "skin" #x46f88b7fe4be1e1e3
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "conor_eastern" "skin" #x4c8f91dce2c70dc0
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "aksel_eastern" "skin" #x42907bb15a681884d
+setStorageFile "leagueplayloadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "skin" #x4d8a7340369c325e
+
+                             
+setStorageFile "leagueplayloadouts" "squadMembers" "killstreakSetups" 0 "killstreak" "cruise_predator"
+setStorageFile "leagueplayloadouts" "squadMembers" "killstreakSetups" 1 "killstreak" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "killstreakSetups" 2 "killstreak" "none"
+
+                     
+setStorageFile "leagueplayloadouts" "squadMembers" "archetype" "archetype_assault"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePerk" "specialty_null"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypeSuper" "super_ammo_drop"
+
+                         
+setStorageFile "leagueplayloadouts" "squadMembers" "gesture" "ui_gesture_thumbs_up"
+setStorageFile "leagueplayloadouts" "squadMembers" "taunt" "iw7_taunt_rare_6"
+setStorageFile "leagueplayloadouts" "squadMembers" "taunts" 0 "iw7_taunt_rare_6"
+setStorageFile "leagueplayloadouts" "squadMembers" "taunts" 1 "iw7_taunt_rare_6"
+setStorageFile "leagueplayloadouts" "squadMembers" "taunts" 2 "iw7_taunt_rare_6"
+setStorageFile "leagueplayloadouts" "squadMembers" "taunts" 3 "iw7_taunt_rare_6"
+
+                 
+setStorageFile "leagueplayloadouts" "squadMembers" "cpLoadoutSel" 0
+
+                            
+setStorageFile "leagueplayloadouts" "squadMembers" "cpFieldUpgrade" "role_tank"
+
+                    
+setStorageFile "leagueplayloadouts" "squadMembers" "munitionSetups" 0 "munition" "empty1"
+setStorageFile "leagueplayloadouts" "squadMembers" "munitionSetups" 1 "munition" "empty2"
+setStorageFile "leagueplayloadouts" "squadMembers" "munitionSetups" 2 "munition" "empty3"
+
+setStorageFile "leagueplayloadouts" "squadMembers" "munitionWaveModeSetups" 0 "munition" "empty1"
+setStorageFile "leagueplayloadouts" "squadMembers" "munitionWaveModeSetups" 1 "munition" "empty2"
+setStorageFile "leagueplayloadouts" "squadMembers" "munitionWaveModeSetups" 2 "munition" "empty3"
+                         
+
+                 
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 0 "name" "LUA_MENU_MP/LOADOUT_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "inUse" 1
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "weapon" "iw9_ar_scharlie"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "comp_ar_06"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "bar_ar_long_p05"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "pgrip_tac_p05"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "ammo_556n_hv"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 4 "attachment" "grip_angled09"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "bar_pi_light_p24"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "pgrip_tac_p24"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "equipmentSetups" 1 "equipment" "equip_concussion"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 0 "equippedPerkPackageIndex" 0
+
+
+                  
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 1 "name" "LUA_MENU_MP/LOADOUT_2"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "weapon" "iw9_sm_alpha57"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 1 "equippedPerkPackageIndex" 1
+
+
+                     
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 2 "name" "LUA_MENU_MP/LOADOUT_3"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "weapon" "iw9_sn_alpha50"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 2 "equippedPerkPackageIndex" 1
+
+
+                 
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 3 "name" "LUA_MENU_MP/LOADOUT_4"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "weapon" "iw9_ar_akilo74"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 3 "equippedPerkPackageIndex" 1
+
+
+                  
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 4 "name" "LUA_MENU_MP/LOADOUT_5"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "weapon" "iw9_sm_beta"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 4 "equippedPerkPackageIndex" 1
+
+                 
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 5 "name" "LUA_MENU_MP/LOADOUT_6"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "weapon" "iw9_ar_mike16"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 5 "equippedPerkPackageIndex" 1
+
+                  
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 6 "name" "LUA_MENU_MP/LOADOUT_7"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "weapon" "iw9_sm_mpapa5"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 6 "equippedPerkPackageIndex" 1
+
+
+                 
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 7 "name" "LUA_MENU_MP/LOADOUT_8"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "weapon" "iw9_ar_akilo105"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 7 "equippedPerkPackageIndex" 1
+
+                  
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 8 "name" "LUA_MENU_MP/LOADOUT_9"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "weapon" "iw9_sm_mpapax"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 8 "equippedPerkPackageIndex" 1
+
+                  
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 9 "name" "LUA_MENU_MP/LOADOUT_10"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "weapon" "iw9_ar_mcharlie"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 9 "equippedPerkPackageIndex" 1
+
+                   
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 10 "name" "LUA_MENU_MP/LOADOUT_11"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "weapon" "iw9_sm_mpapax"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 10 "equippedPerkPackageIndex" 1
+
+                  
+setStorageFile_loc "leagueplayloadouts" "squadMembers" "loadouts" 11 "name" "LUA_MENU_MP/LOADOUT_12"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "inUse" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "overkill" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "weapon" "iw9_ar_mcharlie"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "reticle" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "variantID" 0
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "loadoutPerks" 1 "specialty_tac_resist"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "loadoutPerks" 2 "specialty_warhead"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "loadouts" 11 "equippedPerkPackageIndex" 1
+
+                                       
+
+                                                                                                          
+
+          
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "archetype" "archetype_assault"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "archetypePerk" "specialty_boom"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "archetypeSuper" "super_blinding_turret"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "head" "head_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "body" "body_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "taunt" "iw7_taunt_rare_6"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "taunts" 0 "iw7_taunt_rare_6"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "taunts" 1 "iw7_taunt_rare_6"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "taunts" 2 "iw7_taunt_rare_6"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "taunts" 3 "iw7_taunt_rare_6"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 0 "gesture" "ui_gesture_thumbs_up"
+
+        
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "archetype" "archetype_assault"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "archetypePerk" "specialty_regenfaster"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "archetypeSuper" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "head" "head_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "body" "body_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "taunt" "iw7_taunt_rare_8"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "taunts" 0 "iw7_taunt_rare_8"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "taunts" 1 "iw7_taunt_rare_8"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "taunts" 2 "iw7_taunt_rare_8"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "taunts" 3 "iw7_taunt_rare_8"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 1 "gesture" "ui_gesture_kill"
+
+           
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "archetype" "archetype_assault"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "archetypePerk" "specialty_rush"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "archetypeSuper" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "head" "head_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "body" "body_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "taunt" "iw7_taunt_rare_10"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "taunts" 0 "iw7_taunt_rare_10"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "taunts" 1 "iw7_taunt_rare_10"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "taunts" 2 "iw7_taunt_rare_10"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "taunts" 3 "iw7_taunt_rare_10"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 2 "gesture" "ui_gesture_kill"
+
+      
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "archetype" "archetype_assault"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "archetypePerk" "specialty_superpack"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "archetypeSuper" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "head" "head_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "body" "body_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "taunt" "iw7_taunt_rare_3"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "taunts" 0 "iw7_taunt_rare_3"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "taunts" 1 "iw7_taunt_rare_3"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "taunts" 2 "iw7_taunt_rare_3"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "taunts" 3 "iw7_taunt_rare_3"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 3 "gesture" "ui_gesture_kill"
+
+           
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "archetype" "archetype_assault"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "archetypePerk" "specialty_equipment_ping"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "archetypeSuper" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "head" "head_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "body" "body_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "taunt" "iw7_taunt_rare_14"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "taunts" 0 "iw7_taunt_rare_14"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "taunts" 1 "iw7_taunt_rare_14"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "taunts" 2 "iw7_taunt_rare_14"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "taunts" 3 "iw7_taunt_rare_14"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 4 "gesture" "ui_gesture_kill"
+
+       
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "archetype" "archetype_assault"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "archetypePerk" "specialty_mark_targets"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "archetypeSuper" "none"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "head" "head_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "body" "body_1"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "taunt" "iw7_taunt_rare_7"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "taunts" 0 "iw7_taunt_rare_7"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "taunts" 1 "iw7_taunt_rare_7"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "taunts" 2 "iw7_taunt_rare_7"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "taunts" 3 "iw7_taunt_rare_7"
+setStorageFile "leagueplayloadouts" "squadMembers" "archetypePreferences" 5 "gesture" "ui_gesture_kill"

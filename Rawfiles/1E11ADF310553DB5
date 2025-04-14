@@ -1,0 +1,70 @@
+                                          
+
+                                                                     
+                                                                                                                           
+exec mp\stats\cer\loadouts_public_cer_zm_prestige
+
+                     
+setStorageFile "cerberus_zm_loadouts" "squadMembers" "archetype" "archetype_assault"
+setStorageFile "cerberus_zm_loadouts" "squadMembers" "archetypePerk" "specialty_null"
+setStorageFile "cerberus_zm_loadouts" "squadMembers" "archetypeSuper" "super_energy_mine"
+
+                         
+setStorageFile "cerberus_zm_loadouts" "squadMembers" "gesture" "ui_gesture_thumbs_up"
+
+                 
+setStorageFile "cerberus_zm_loadouts" "squadMembers" "cpLoadoutSel" 0
+
+                            
+setStorageFile "cerberus_zm_loadouts" "squadMembers" "cpFieldUpgrade" "role_tank"
+
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "radial" 0 210000
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "radial" 1 190217
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "radial" 2 190218
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "radial" 3 190219
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "radial" 4 190220
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "radial" 5 190221
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "radial" 6 190222
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "radial" 7 190223
+
+setStorageFile "cerberus_zm_loadouts" "customizationFavorites" "favoriteLoadoutIndex" 0
+
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "fender_western" "execution" 6
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "execution" 6
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "execution" 6
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "execution" 6
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "chili_western" "execution" 6
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "execution" 6
+
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "fender_western" "intro" 0
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "intro" 1
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "intro" 2
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "intro" 3
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "chili_western" "intro" 4
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "intro" 5
+
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "fender_western" "taunt" 0
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "taunt" 1
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "taunt" 2
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "taunt" 3
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "chili_western" "taunt" 4
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "taunt" 5
+
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "fender_western" "skin" #x4e385da335086d17
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "skin" #x44814d31091192d0e
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "skin" #x4ea42fa386691391
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "skin" #x44b1e3303c085aca4
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "chili_western" "skin" #x44473081b9074c6f6
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "skin" #x4d8a7340369c325e
+
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "emoteCustomization" "emotes" 0 62446
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "emoteCustomization" "emotes" 1 58319
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "emoteCustomization" "emotes" 2 58321
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "emoteCustomization" "emotes" 3 82880
+
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "sprayCustomization" "sprays" 0 #x442be39dc8beb1579
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "sprayCustomization" "sprays" 1 #x442be36dc8beb1060
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "sprayCustomization" "sprays" 2 #x442be37dc8beb1213
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "sprayCustomization" "sprays" 3 #x442be3cdc8beb1a92
+setStorageFile "cerberus_zm_loadouts" "customizationSetup" "sprayCustomization" "sprays" 4 #x442be3ddc8beb1c45
+

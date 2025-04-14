@@ -1,0 +1,409 @@
+                                          
+
+                               
+setCerberusZMLoadout "defaultSet" 1
+setCerberusZMLoadout "inUse" 1
+
+                             
+setCerberusZMLoadout "killstreakSetups" 0 "killstreak" "radar_ping"
+setCerberusZMLoadout "killstreakSetups" 1 "killstreak" "rcxd"
+setCerberusZMLoadout "killstreakSetups" 2 "killstreak" "hellstorm_missile"
+
+                     
+setCerberusZMLoadout "archetype" "archetype_assault"
+setCerberusZMLoadout "archetypePerk" "specialty_null"
+setCerberusZMLoadout "archetypeSuper" "super_ammo_drop"
+setCerberusZMLoadout "head" 10
+setCerberusZMLoadout "body" 6
+
+                         
+setCerberusZMLoadout "gesture" "gesture000"
+setCerberusZMLoadout "taunt" "iw7_taunt_rare_6"
+setCerberusZMLoadout "taunts" 0 "iw7_taunt_rare_6"
+setCerberusZMLoadout "taunts" 1 "iw7_taunt_rare_6"
+setCerberusZMLoadout "taunts" 2 "iw7_taunt_rare_6"
+setCerberusZMLoadout "taunts" 3 "iw7_taunt_rare_6"
+
+                 
+setCerberusZMLoadout "cpLoadoutSel" 0
+
+                            
+setCerberusZMLoadout "cpFieldUpgrade" "role_tank"
+
+                    
+setCerberusZMLoadout "munitionSetups" 0 "munition" "empty1"
+setCerberusZMLoadout "munitionSetups" 1 "munition" "empty2"
+setCerberusZMLoadout "munitionSetups" 2 "munition" "empty3"
+
+setCerberusZMLoadout "munitionWaveModeSetups" 0 "munition" "empty1"
+setCerberusZMLoadout "munitionWaveModeSetups" 1 "munition" "empty2"
+setCerberusZMLoadout "munitionWaveModeSetups" 2 "munition" "empty3"
+                         
+
+                 
+setCerberusZMLoadout_loc "loadouts" 0 "name" "LUA_MENU_MP/LOADOUT_1"
+setCerberusZMLoadout "loadouts" 0 "inUse" 1
+setCerberusZMLoadout "loadouts" 0 "overkill" 0
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "weapon" "t10_ar_p01_coslo723"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "reticle" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 0 "variantID" 0
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "weapon" "t10_pi_p13_usugar9"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "reticle" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 1 "variantID" 0
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "weapon" "t10_me_p15_knife"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "reticle" "none"
+setCerberusZMLoadout "loadouts" 0 "weaponSetups" 2 "variantID" 0
+setCerberusZMLoadout "loadouts" 0 "equipmentSetups" 0 "equipment" "equip_frag"
+setCerberusZMLoadout "loadouts" 0 "equipmentSetups" 1 "equipment" "equip_flash"
+setCerberusZMLoadout "loadouts" 0 "loadoutPerks" 0 "specialty_scavenger"
+setCerberusZMLoadout "loadouts" 0 "loadoutPerks" 1 "specialty_gungho"
+setCerberusZMLoadout "loadouts" 0 "loadoutPerks" 2 "specialty_hustle"
+setCerberusZMLoadout "loadouts" 0 "extraPerks" 0 "none"
+setCerberusZMLoadout "loadouts" 0 "fieldUpgrades" 0 "super_ammo_drop"
+setCerberusZMLoadout "loadouts" 0 "fieldUpgrades" 1 "none"
+setCerberusZMLoadout "loadouts" 0 "equippedPerkPackageIndex" "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 0 "role_3"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 4 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 3 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 2 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 1 "deployable_cover"
+
+
+                  
+setCerberusZMLoadout_loc "loadouts" 1 "name" "LUA_MENU_MP/LOADOUT_2"
+setCerberusZMLoadout "loadouts" 1 "inUse" 0
+setCerberusZMLoadout "loadouts" 1 "overkill" 0
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "weapon" "t10_ar_p01_coslo723"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "reticle" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 0 "variantID" 0
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "weapon" "t10_pi_p13_usugar9"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "reticle" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 1 "variantID" 0
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "weapon" "t10_me_p15_knife"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "reticle" "none"
+setCerberusZMLoadout "loadouts" 1 "weaponSetups" 2 "variantID" 0
+setCerberusZMLoadout "loadouts" 1 "equipmentSetups" 0 "equipment" "equip_frag"
+setCerberusZMLoadout "loadouts" 1 "equipmentSetups" 1 "equipment" "equip_flash"
+setCerberusZMLoadout "loadouts" 1 "loadoutPerks" 0 "specialty_scavenger"
+setCerberusZMLoadout "loadouts" 1 "loadoutPerks" 1 "specialty_gungho"
+setCerberusZMLoadout "loadouts" 1 "loadoutPerks" 2 "specialty_hustle"
+setCerberusZMLoadout "loadouts" 1 "extraPerks" 0 "none"
+setCerberusZMLoadout "loadouts" 1 "fieldUpgrades" 0 "super_ammo_drop"
+setCerberusZMLoadout "loadouts" 1 "fieldUpgrades" 1 "none"
+setCerberusZMLoadout "loadouts" 1 "equippedPerkPackageIndex" "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 0 "role_2"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 4 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 3 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 2 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 1 "adrenaline"
+
+
+                  
+setCerberusZMLoadout_loc "loadouts" 2 "name" "LUA_MENU_MP/LOADOUT_3"
+setCerberusZMLoadout "loadouts" 2 "inUse" 0
+setCerberusZMLoadout "loadouts" 2 "overkill" 0
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "weapon" "t10_ar_p01_coslo723"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "reticle" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 0 "variantID" 0
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "weapon" "t10_pi_p13_usugar9"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "reticle" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 1 "variantID" 0
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "weapon" "t10_me_p15_knife"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "reticle" "none"
+setCerberusZMLoadout "loadouts" 2 "weaponSetups" 2 "variantID" 0
+setCerberusZMLoadout "loadouts" 2 "equipmentSetups" 0 "equipment" "equip_frag"
+setCerberusZMLoadout "loadouts" 2 "equipmentSetups" 1 "equipment" "equip_flash"
+setCerberusZMLoadout "loadouts" 2 "loadoutPerks" 0 "specialty_scavenger"
+setCerberusZMLoadout "loadouts" 2 "loadoutPerks" 1 "specialty_gungho"
+setCerberusZMLoadout "loadouts" 2 "loadoutPerks" 2 "specialty_hustle"
+setCerberusZMLoadout "loadouts" 2 "extraPerks" 0 "none"
+setCerberusZMLoadout "loadouts" 2 "fieldUpgrades" 0 "super_ammo_drop"
+setCerberusZMLoadout "loadouts" 2 "fieldUpgrades" 1 "none"
+setCerberusZMLoadout "loadouts" 2 "equippedPerkPackageIndex" "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 0 "role_3"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 4 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 3 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 2 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 1 "deployable_cover"
+
+
+                      
+setCerberusZMLoadout_loc "loadouts" 3 "name" "LUA_MENU_MP/LOADOUT_4"
+setCerberusZMLoadout "loadouts" 3 "inUse" 0
+setCerberusZMLoadout "loadouts" 3 "overkill" 0
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "weapon" "t10_ar_p01_coslo723"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "reticle" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 0 "variantID" 0
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "weapon" "t10_pi_p13_usugar9"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "reticle" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 1 "variantID" 0
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "weapon" "t10_me_p15_knife"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "reticle" "none"
+setCerberusZMLoadout "loadouts" 3 "weaponSetups" 2 "variantID" 0
+setCerberusZMLoadout "loadouts" 3 "equipmentSetups" 0 "equipment" "equip_frag"
+setCerberusZMLoadout "loadouts" 3 "equipmentSetups" 1 "equipment" "equip_flash"
+setCerberusZMLoadout "loadouts" 3 "loadoutPerks" 0 "specialty_scavenger"
+setCerberusZMLoadout "loadouts" 3 "loadoutPerks" 1 "specialty_gungho"
+setCerberusZMLoadout "loadouts" 3 "loadoutPerks" 2 "specialty_hustle"
+setCerberusZMLoadout "loadouts" 3 "extraPerks" 0 "none"
+setCerberusZMLoadout "loadouts" 3 "fieldUpgrades" 0 "super_ammo_drop"
+setCerberusZMLoadout "loadouts" 3 "fieldUpgrades" 1 "none"
+setCerberusZMLoadout "loadouts" 3 "equippedPerkPackageIndex" "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 0 "role_4"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 4 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 3 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 2 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 1 "manual_turret"
+
+
+                     
+setCerberusZMLoadout_loc "loadouts" 4 "name" "LUA_MENU_MP/LOADOUT_5"
+setCerberusZMLoadout "loadouts" 4 "inUse" 0
+setCerberusZMLoadout "loadouts" 4 "overkill" 0
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "weapon" "t10_ar_p01_coslo723"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "reticle" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 0 "variantID" 0
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "weapon" "t10_pi_p13_usugar9"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "reticle" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 1 "variantID" 0
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "weapon" "t10_me_p15_knife"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "Sticker" 0 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "Sticker" 1 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "Sticker" 2 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "Sticker" 3 "sticker" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "reticle" "none"
+setCerberusZMLoadout "loadouts" 4 "weaponSetups" 2 "variantID" 0
+setCerberusZMLoadout "loadouts" 4 "equipmentSetups" 0 "equipment" "equip_frag"
+setCerberusZMLoadout "loadouts" 4 "equipmentSetups" 1 "equipment" "equip_flash"
+setCerberusZMLoadout "loadouts" 4 "loadoutPerks" 0 "specialty_scavenger"
+setCerberusZMLoadout "loadouts" 4 "loadoutPerks" 1 "specialty_gungho"
+setCerberusZMLoadout "loadouts" 4 "loadoutPerks" 2 "specialty_hustle"
+setCerberusZMLoadout "loadouts" 4 "extraPerks" 0 "none"
+setCerberusZMLoadout "loadouts" 4 "fieldUpgrades" 0 "super_ammo_drop"
+setCerberusZMLoadout "loadouts" 4 "fieldUpgrades" 1 "none"
+setCerberusZMLoadout "loadouts" 4 "equippedPerkPackageIndex" "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 0 "role_5"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 4 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 3 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 2 "none"
+setCoopPlayerData "zombiePlayerLoadout" "zombie_consumables" 1 "grenade_launcher"
+
+
+                                          
+setCerberusZMLoadout "streakPreferences" "none" 0
+setCerberusZMLoadout "streakPreferences" "uav" 0
+setCerberusZMLoadout "streakPreferences" "airdrop" 0
+setCerberusZMLoadout "streakPreferences" "dronedrop" 0
+setCerberusZMLoadout "streakPreferences" "counter_uav" 0
+setCerberusZMLoadout "streakPreferences" "ball_drone_backup" 0
+setCerberusZMLoadout "streakPreferences" "sentry_shock" 0
+setCerberusZMLoadout "streakPreferences" "orbital_deployment" 0
+setCerberusZMLoadout "streakPreferences" "thor" 0
+setCerberusZMLoadout "streakPreferences" "precision_airstrike" 0
+setCerberusZMLoadout "streakPreferences" "jammer" 0
+setCerberusZMLoadout "streakPreferences" "jackal" 0
+setCerberusZMLoadout "streakPreferences" "minijackal" 0
+setCerberusZMLoadout "streakPreferences" "nuke" 0
+setCerberusZMLoadout "streakPreferences" "spiderbot" 0
+setCerberusZMLoadout "streakPreferences" "directional_uav" 0
+setCerberusZMLoadout "streakPreferences" "bombardment" 0
+setCerberusZMLoadout "streakPreferences" "remote_c8" 0
+setCerberusZMLoadout "streakPreferences" "venom" 0
+
+                                       
+
+                                                                                                          
+
+          
+setCerberusZMLoadout "archetypePreferences" 0 "archetype" "archetype_assault"
+setCerberusZMLoadout "archetypePreferences" 0 "archetypePerk" "specialty_boom"
+setCerberusZMLoadout "archetypePreferences" 0 "archetypeSuper" "super_pac_sentry"
+setCerberusZMLoadout "archetypePreferences" 0 "head" "head_1"
+setCerberusZMLoadout "archetypePreferences" 0 "body" "body_1"
+setCerberusZMLoadout "archetypePreferences" 0 "taunt" "iw7_taunt_rare_6"
+setCerberusZMLoadout "archetypePreferences" 0 "taunts" 0 "iw7_taunt_rare_6"
+setCerberusZMLoadout "archetypePreferences" 0 "taunts" 1 "iw7_taunt_rare_6"
+setCerberusZMLoadout "archetypePreferences" 0 "taunts" 2 "iw7_taunt_rare_6"
+setCerberusZMLoadout "archetypePreferences" 0 "taunts" 3 "iw7_taunt_rare_6"
+setCerberusZMLoadout "archetypePreferences" 0 "gesture" "gesture000"
+
+        
+setCerberusZMLoadout "archetypePreferences" 1 "archetype" "archetype_assault"
+setCerberusZMLoadout "archetypePreferences" 1 "archetypePerk" "specialty_regenfaster"
+setCerberusZMLoadout "archetypePreferences" 1 "archetypeSuper" "none"
+setCerberusZMLoadout "archetypePreferences" 1 "head" "head_1"
+setCerberusZMLoadout "archetypePreferences" 1 "body" "body_1"
+setCerberusZMLoadout "archetypePreferences" 1 "taunt" "iw7_taunt_rare_8"
+setCerberusZMLoadout "archetypePreferences" 1 "taunts" 0 "iw7_taunt_rare_8"
+setCerberusZMLoadout "archetypePreferences" 1 "taunts" 1 "iw7_taunt_rare_8"
+setCerberusZMLoadout "archetypePreferences" 1 "taunts" 2 "iw7_taunt_rare_8"
+setCerberusZMLoadout "archetypePreferences" 1 "taunts" 3 "iw7_taunt_rare_8"
+setCerberusZMLoadout "archetypePreferences" 1 "gesture" "gesture009"
+
+           
+setCerberusZMLoadout "archetypePreferences" 2 "archetype" "archetype_assault"
+setCerberusZMLoadout "archetypePreferences" 2 "archetypePerk" "specialty_rush"
+setCerberusZMLoadout "archetypePreferences" 2 "archetypeSuper" "none"
+setCerberusZMLoadout "archetypePreferences" 2 "head" "head_1"
+setCerberusZMLoadout "archetypePreferences" 2 "body" "body_1"
+setCerberusZMLoadout "archetypePreferences" 2 "taunt" "iw7_taunt_rare_10"
+setCerberusZMLoadout "archetypePreferences" 2 "taunts" 0 "iw7_taunt_rare_10"
+setCerberusZMLoadout "archetypePreferences" 2 "taunts" 1 "iw7_taunt_rare_10"
+setCerberusZMLoadout "archetypePreferences" 2 "taunts" 2 "iw7_taunt_rare_10"
+setCerberusZMLoadout "archetypePreferences" 2 "taunts" 3 "iw7_taunt_rare_10"
+setCerberusZMLoadout "archetypePreferences" 2 "gesture" "gesture009"
+
+      
+setCerberusZMLoadout "archetypePreferences" 3 "archetype" "archetype_assault"
+setCerberusZMLoadout "archetypePreferences" 3 "archetypePerk" "specialty_superpack"
+setCerberusZMLoadout "archetypePreferences" 3 "archetypeSuper" "none"
+setCerberusZMLoadout "archetypePreferences" 3 "head" "head_1"
+setCerberusZMLoadout "archetypePreferences" 3 "body" "body_1"
+setCerberusZMLoadout "archetypePreferences" 3 "taunt" "iw7_taunt_rare_3"
+setCerberusZMLoadout "archetypePreferences" 3 "taunts" 0 "iw7_taunt_rare_3"
+setCerberusZMLoadout "archetypePreferences" 3 "taunts" 1 "iw7_taunt_rare_3"
+setCerberusZMLoadout "archetypePreferences" 3 "taunts" 2 "iw7_taunt_rare_3"
+setCerberusZMLoadout "archetypePreferences" 3 "taunts" 3 "iw7_taunt_rare_3"
+setCerberusZMLoadout "archetypePreferences" 3 "gesture" "gesture009"
+
+           
+setCerberusZMLoadout "archetypePreferences" 4 "archetype" "archetype_assault"
+setCerberusZMLoadout "archetypePreferences" 4 "archetypePerk" "specialty_equipment_ping"
+setCerberusZMLoadout "archetypePreferences" 4 "archetypeSuper" "none"
+setCerberusZMLoadout "archetypePreferences" 4 "head" "head_1"
+setCerberusZMLoadout "archetypePreferences" 4 "body" "body_1"
+setCerberusZMLoadout "archetypePreferences" 4 "taunt" "iw7_taunt_rare_14"
+setCerberusZMLoadout "archetypePreferences" 4 "taunts" 0 "iw7_taunt_rare_14"
+setCerberusZMLoadout "archetypePreferences" 4 "taunts" 1 "iw7_taunt_rare_14"
+setCerberusZMLoadout "archetypePreferences" 4 "taunts" 2 "iw7_taunt_rare_14"
+setCerberusZMLoadout "archetypePreferences" 4 "taunts" 3 "iw7_taunt_rare_14"
+setCerberusZMLoadout "archetypePreferences" 4 "gesture" "gesture009"
+
+       
+setCerberusZMLoadout "archetypePreferences" 5 "archetype" "archetype_assault"
+setCerberusZMLoadout "archetypePreferences" 5 "archetypePerk" "specialty_mark_targets"
+setCerberusZMLoadout "archetypePreferences" 5 "archetypeSuper" "none"
+setCerberusZMLoadout "archetypePreferences" 5 "head" "head_1"
+setCerberusZMLoadout "archetypePreferences" 5 "body" "body_1"
+setCerberusZMLoadout "archetypePreferences" 5 "taunt" "iw7_taunt_rare_7"
+setCerberusZMLoadout "archetypePreferences" 5 "taunts" 0 "iw7_taunt_rare_7"
+setCerberusZMLoadout "archetypePreferences" 5 "taunts" 1 "iw7_taunt_rare_7"
+setCerberusZMLoadout "archetypePreferences" 5 "taunts" 2 "iw7_taunt_rare_7"
+setCerberusZMLoadout "archetypePreferences" 5 "taunts" 3 "iw7_taunt_rare_7"
+setCerberusZMLoadout "archetypePreferences" 5 "gesture" "gesture009"

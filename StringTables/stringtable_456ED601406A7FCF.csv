@@ -1,0 +1,10 @@
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,
+include,omnvars/mp/omnvars_bombtimer.csv,,,,,,
+include,omnvars/mp/omnvars_team_revive.csv,,,,,,
+include,omnvars/mp/omnvars_team_status_lives.csv,,,,,,
+include,omnvars/mp/omnvars_team_status_zones.csv,,,,,,
+include,omnvars/mp/omnvars_mgl.csv,,,,,,
+include,omnvars/feature/omnvars_forfeit.csv,,,,,,
+ui_team_before_spectating,1,,c,i,0,0,3
+ui_reset_joystick,1,,c,i,0,0,1
+ui_num_dom_flags,1,,g,i,2,0,5

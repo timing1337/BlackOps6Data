@@ -1,0 +1,6 @@
+dom_legacy,1,brloot_domination_tablet,100,ui_map_icon_ph_recon,0,0,domination,False,
+assassination,1,brloot_assassination_phone,180,ui_map_icon_ph_combat,0,0,assassin,False,
+scavenger,1,brloot_scavenger_phone,300,ui_map_icon_ph_scavenger,0,0,scavenger_3,False,
+vip,1,brloot_vip_phone,240,ui_map_icon_ph_most_wanted,0,0,vip,False,uav
+timedrun,1,brloot_timedrun_phone,120,ui_map_icon_ph_supply_run,0,0,timed_run,False,
+strongholdInfil,1,brloot_stronghold_infil_phone,120,ui_map_icon_ph_infiltration,0,0,,False,

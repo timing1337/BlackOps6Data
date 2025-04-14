@@ -1,0 +1,14 @@
+                                   
+exec default_common.cfg
+
+                                                                                                                                     
+set #x3a464cb031c16ee87 1
+
+set #x31c46edd4b28ec23   17748                               
+set #x33ac8e9ebdf483563 17764                               
+
+                      
+exec t10_core_settings.cfg
+
+exec default_statversion_mp_t10.cfg
+exec default_statversion_sp_t10.cfg

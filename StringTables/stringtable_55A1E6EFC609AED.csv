@@ -1,0 +1,10 @@
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,
+include,omnvars/mp/omnvars_team_status_lives.csv,,,,,,
+ui_bomb_timer_endtime,1,,g,t,0,,
+ui_whistle_seconds_remaining,1,,g,i,0,0,100
+ui_prop_clones_remaining,1,,c,i,0,0,100
+ui_prop_changes_remaining,1,,c,i,0,0,100
+ui_prop_ability_remaining,1,,c,i,0,0,100
+ui_prop_lock_state,1,0,c,i,0,0,2
+ui_prop_team,1,,g,i,0,0,100
+ui_prop_start_countdown,1,,g,i,0,-1,90

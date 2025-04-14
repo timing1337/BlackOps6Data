@@ -1,0 +1,8 @@
+ui_dialogue_prompts_active,1,,c,b,0,0,1,,,,,,
+ui_dialogue_prompts_choice,1,,g,i,0,0,4,,,,,,
+ui_dialogue_prompts_duration,1,,g,i,0,0,1000,,,,,,
+ui_dialogue_prompts_option_a,1,,g,s,none,,,,,,,,
+ui_dialogue_prompts_option_b,1,,g,s,none,,,,,,,,
+ui_dialogue_prompts_option_c,1,,g,s,none,,,,,,,,
+ui_dialogue_prompts_option_d,1,,g,s,none,,,,,,,,
+ui_prompt_hold_progress,1,,g,f,0,0,1,1,,,,,

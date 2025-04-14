@@ -1,0 +1,561 @@
+                                          
+
+                               
+setStorageFile "mgl_loadouts" "squadMembers" "defaultSet" 1
+setStorageFile "mgl_loadouts" "squadMembers" "inUse" 1
+
+                             
+setStorageFile "mgl_loadouts" "killstreakSetups" 0 "killstreakLootID" 30751              
+setStorageFile "mgl_loadouts" "killstreakSetups" 1 "killstreakLootID" 30750                     
+setStorageFile "mgl_loadouts" "killstreakSetups" 2 "killstreakLootID" 38298                  
+
+                     
+setStorageFile "mgl_loadouts" "squadMembers" "archetype" "archetype_assault"
+setStorageFile "mgl_loadouts" "squadMembers" "archetypePerk" "specialty_null"
+setStorageFile "mgl_loadouts" "squadMembers" "archetypeSuper" "super_ammo_drop"
+
+                         
+setStorageFile "mgl_loadouts" "squadMembers" "gesture" "ui_gesture_thumbs_up"
+
+                 
+setStorageFile "mgl_loadouts" "squadMembers" "cpLoadoutSel" 0
+
+                            
+setStorageFile "mgl_loadouts" "squadMembers" "cpFieldUpgrade" "role_tank"
+
+                    
+setStorageFile "mgl_loadouts" "squadMembers" "munitionSetups" 0 "munition" "empty1"
+setStorageFile "mgl_loadouts" "squadMembers" "munitionSetups" 1 "munition" "empty2"
+setStorageFile "mgl_loadouts" "squadMembers" "munitionSetups" 2 "munition" "empty3"
+
+setStorageFile "mgl_loadouts" "squadMembers" "munitionWaveModeSetups" 0 "munition" "empty1"
+setStorageFile "mgl_loadouts" "squadMembers" "munitionWaveModeSetups" 1 "munition" "empty2"
+setStorageFile "mgl_loadouts" "squadMembers" "munitionWaveModeSetups" 2 "munition" "empty3"
+
+                                          
+                                                                    
+setStorageFile "mgl_loadouts" "loadoutSettings" "lastSelectedLoadoutIndex" 100
+
+                         
+                                          
+
+                               
+
+                     
+                         
+                 
+                            
+                    
+                                          
+                                                                    
+
+
+                         
+
+                 
+setStorageFile_loc "mgl_loadouts" "loadouts" 0 "name" "LUA_MENU_MP/LOADOUT_1"
+setStorageFile "mgl_loadouts" "loadouts" 0 "inUse" 1
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "weaponLootID" 17748
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "equipmentSetups" 0 "equipmentLootID" 30578              
+setStorageFile "mgl_loadouts" "loadouts" 0 "equipmentSetups" 1 "equipmentLootID" 30583                    
+setStorageFile "mgl_loadouts" "loadouts" 0 "perkLootIDs" 0 80971                       
+setStorageFile "mgl_loadouts" "loadouts" 0 "perkLootIDs" 1 30605                     
+setStorageFile "mgl_loadouts" "loadouts" 0 "perkLootIDs" 2 30633                    
+setStorageFile "mgl_loadouts" "loadouts" 0 "perkBonusLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687                
+setStorageFile "mgl_loadouts" "loadouts" 0 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 0 "wildcardLootID" 0
+
+                  
+setStorageFile_loc "mgl_loadouts" "loadouts" 1 "name" "LUA_MENU_MP/LOADOUT_2"
+setStorageFile "mgl_loadouts" "loadouts" 1 "inUse" 1
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "weaponLootID" 36416
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "equipmentSetups" 0 "equipmentLootID" 30578              
+setStorageFile "mgl_loadouts" "loadouts" 1 "equipmentSetups" 1 "equipmentLootID" 30583                    
+setStorageFile "mgl_loadouts" "loadouts" 1 "perkLootIDs" 0 80971                       
+setStorageFile "mgl_loadouts" "loadouts" 1 "perkLootIDs" 1 30605                     
+setStorageFile "mgl_loadouts" "loadouts" 1 "perkLootIDs" 2 30633                    
+setStorageFile "mgl_loadouts" "loadouts" 1 "perkBonusLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687                
+setStorageFile "mgl_loadouts" "loadouts" 1 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 1 "wildcardLootID" 0
+
+
+                      
+setStorageFile_loc "mgl_loadouts" "loadouts" 2 "name" "LUA_MENU_MP/LOADOUT_3"
+setStorageFile "mgl_loadouts" "loadouts" 2 "inUse" 1
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "weaponLootID" 17744
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "equipmentSetups" 0 "equipmentLootID" 30578              
+setStorageFile "mgl_loadouts" "loadouts" 2 "equipmentSetups" 1 "equipmentLootID" 30583                    
+setStorageFile "mgl_loadouts" "loadouts" 2 "perkLootIDs" 0 80971                       
+setStorageFile "mgl_loadouts" "loadouts" 2 "perkLootIDs" 1 30605                     
+setStorageFile "mgl_loadouts" "loadouts" 2 "perkLootIDs" 2 30633                    
+setStorageFile "mgl_loadouts" "loadouts" 2 "perkBonusLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687                
+setStorageFile "mgl_loadouts" "loadouts" 2 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 2 "wildcardLootID" 0
+
+
+                  
+setStorageFile_loc "mgl_loadouts" "loadouts" 3 "name" "LUA_MENU_MP/LOADOUT_4"
+setStorageFile "mgl_loadouts" "loadouts" 3 "inUse" 1
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "weaponLootID" 17745
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "equipmentSetups" 0 "equipmentLootID" 30578              
+setStorageFile "mgl_loadouts" "loadouts" 3 "equipmentSetups" 1 "equipmentLootID" 30583                    
+setStorageFile "mgl_loadouts" "loadouts" 3 "perkLootIDs" 0 80971                       
+setStorageFile "mgl_loadouts" "loadouts" 3 "perkLootIDs" 1 30605                     
+setStorageFile "mgl_loadouts" "loadouts" 3 "perkLootIDs" 2 30633                    
+setStorageFile "mgl_loadouts" "loadouts" 3 "perkBonusLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687                
+setStorageFile "mgl_loadouts" "loadouts" 3 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 3 "wildcardLootID" 0
+
+
+                     
+setStorageFile_loc "mgl_loadouts" "loadouts" 4 "name" "LUA_MENU_MP/LOADOUT_5"
+setStorageFile "mgl_loadouts" "loadouts" 4 "inUse" 1
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "weaponLootID" 37767
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "equipmentSetups" 0 "equipmentLootID" 30578              
+setStorageFile "mgl_loadouts" "loadouts" 4 "equipmentSetups" 1 "equipmentLootID" 30583                    
+setStorageFile "mgl_loadouts" "loadouts" 4 "perkLootIDs" 0 80971                       
+setStorageFile "mgl_loadouts" "loadouts" 4 "perkLootIDs" 1 30605                     
+setStorageFile "mgl_loadouts" "loadouts" 4 "perkLootIDs" 2 30633                    
+setStorageFile "mgl_loadouts" "loadouts" 4 "perkBonusLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687                
+setStorageFile "mgl_loadouts" "loadouts" 4 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 4 "wildcardLootID" 0
+
+
+                 
+setStorageFile_loc "mgl_loadouts" "loadouts" 5 "name" "LUA_MENU_MP/LOADOUT_6"
+setStorageFile "mgl_loadouts" "loadouts" 5 "inUse" 1
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "weaponLootID" 17748
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "equipmentSetups" 0 "equipmentLootID" 30578              
+setStorageFile "mgl_loadouts" "loadouts" 5 "equipmentSetups" 1 "equipmentLootID" 30583                    
+setStorageFile "mgl_loadouts" "loadouts" 5 "perkLootIDs" 0 80971                       
+setStorageFile "mgl_loadouts" "loadouts" 5 "perkLootIDs" 1 30605                     
+setStorageFile "mgl_loadouts" "loadouts" 5 "perkLootIDs" 2 30633                    
+setStorageFile "mgl_loadouts" "loadouts" 5 "perkBonusLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687                
+setStorageFile "mgl_loadouts" "loadouts" 5 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 5 "wildcardLootID" 0
+
+
+                  
+setStorageFile_loc "mgl_loadouts" "loadouts" 6 "name" "LUA_MENU_MP/LOADOUT_7"
+setStorageFile "mgl_loadouts" "loadouts" 6 "inUse" 1
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "weaponLootID" 36416
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "equipmentSetups" 0 "equipmentLootID" 30578              
+setStorageFile "mgl_loadouts" "loadouts" 6 "equipmentSetups" 1 "equipmentLootID" 30583                    
+setStorageFile "mgl_loadouts" "loadouts" 6 "perkLootIDs" 0 80971                       
+setStorageFile "mgl_loadouts" "loadouts" 6 "perkLootIDs" 1 30605                     
+setStorageFile "mgl_loadouts" "loadouts" 6 "perkLootIDs" 2 30633                    
+setStorageFile "mgl_loadouts" "loadouts" 6 "perkBonusLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687                
+setStorageFile "mgl_loadouts" "loadouts" 6 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 6 "wildcardLootID" 0
+
+
+                      
+setStorageFile_loc "mgl_loadouts" "loadouts" 7 "name" "LUA_MENU_MP/LOADOUT_8"
+setStorageFile "mgl_loadouts" "loadouts" 7 "inUse" 1
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "weaponLootID" 17744
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "equipmentSetups" 0 "equipmentLootID" 30578              
+setStorageFile "mgl_loadouts" "loadouts" 7 "equipmentSetups" 1 "equipmentLootID" 30583                    
+setStorageFile "mgl_loadouts" "loadouts" 7 "perkLootIDs" 0 80971                       
+setStorageFile "mgl_loadouts" "loadouts" 7 "perkLootIDs" 1 30605                     
+setStorageFile "mgl_loadouts" "loadouts" 7 "perkLootIDs" 2 30633                    
+setStorageFile "mgl_loadouts" "loadouts" 7 "perkBonusLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687                
+setStorageFile "mgl_loadouts" "loadouts" 7 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 7 "wildcardLootID" 0
+
+
+                  
+setStorageFile_loc "mgl_loadouts" "loadouts" 8 "name" "LUA_MENU_MP/LOADOUT_9"
+setStorageFile "mgl_loadouts" "loadouts" 8 "inUse" 1
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "weaponLootID" 17745
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "equipmentSetups" 0 "equipmentLootID" 30578              
+setStorageFile "mgl_loadouts" "loadouts" 8 "equipmentSetups" 1 "equipmentLootID" 30583                    
+setStorageFile "mgl_loadouts" "loadouts" 8 "perkLootIDs" 0 80971                       
+setStorageFile "mgl_loadouts" "loadouts" 8 "perkLootIDs" 1 30605                     
+setStorageFile "mgl_loadouts" "loadouts" 8 "perkLootIDs" 2 30633                    
+setStorageFile "mgl_loadouts" "loadouts" 8 "perkBonusLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687                
+setStorageFile "mgl_loadouts" "loadouts" 8 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 8 "wildcardLootID" 0
+
+
+                      
+setStorageFile_loc "mgl_loadouts" "loadouts" 9 "name" "LUA_MENU_MP/LOADOUT_10"
+setStorageFile "mgl_loadouts" "loadouts" 9 "inUse" 1
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "weaponLootID" 37767
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "equipmentSetups" 0 "equipmentLootID" 30578              
+setStorageFile "mgl_loadouts" "loadouts" 9 "equipmentSetups" 1 "equipmentLootID" 30583                    
+setStorageFile "mgl_loadouts" "loadouts" 9 "perkLootIDs" 0 80971                       
+setStorageFile "mgl_loadouts" "loadouts" 9 "perkLootIDs" 1 30605                     
+setStorageFile "mgl_loadouts" "loadouts" 9 "perkLootIDs" 2 30633                    
+setStorageFile "mgl_loadouts" "loadouts" 9 "perkBonusLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687                
+setStorageFile "mgl_loadouts" "loadouts" 9 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "mgl_loadouts" "loadouts" 9 "wildcardLootID" 0
+
+setStorageFile "mgl_loadouts" "customizationSetup" "emoteCustomization" "emotes" 0 62446
+setStorageFile "mgl_loadouts" "customizationSetup" "emoteCustomization" "emotes" 1 58319
+setStorageFile "mgl_loadouts" "customizationSetup" "emoteCustomization" "emotes" 2 58321
+setStorageFile "mgl_loadouts" "customizationSetup" "emoteCustomization" "emotes" 3 82880
+
+setStorageFile "mgl_loadouts" "customizationSetup" "sprayCustomization" "sprays" 0 #x442be39dc8beb1579
+setStorageFile "mgl_loadouts" "customizationSetup" "sprayCustomization" "sprays" 1 #x442be36dc8beb1060
+setStorageFile "mgl_loadouts" "customizationSetup" "sprayCustomization" "sprays" 2 #x442be37dc8beb1213
+setStorageFile "mgl_loadouts" "customizationSetup" "sprayCustomization" "sprays" 3 #x442be3cdc8beb1a92

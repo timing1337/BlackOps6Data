@@ -1,0 +1,8 @@
+                 
+setStorageFile "cerberus_nongamedata" "nonGameData" "cross_play_enabled" 1
+setStorageFile "cerberus_nongamedata" "nonGameData" "rankedplay_crossplay_enabled" 1
+setStorageFile "cerberus_nongamedata" "nonGameData" "core_mp_crossplay_setting" 0
+setStorageFile "cerberus_nongamedata" "nonGameData" "core_zm_crossplay_setting" 0
+setStorageFile "cerberus_nongamedata" "nonGameData" "core_wz_crossplay_setting" 0
+setStorageFile "cerberus_nongamedata" "nonGameData" "rankedplay_crossplay_setting" 0
+setStorageFile "cerberus_nongamedata" "nonGameData" "rankedplay_wz_crossplay_setting" 0

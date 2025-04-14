@@ -1,0 +1,17 @@
+0,strike,0,sp_str_cine_intro,900,sp_strike_loading,0,0,sp_strike_mission_preview,0,0,,,republic,0,0,0,0,C5FA7DC0531F854D
+1,nightwar,0,sp_nwr_cine_intro,4485,sp_nightwar_loading,0,0,sp_nightwar_mission_preview,0,0,,,republic,0,0,0,0,E3A396EDA25F57AC
+2,marina,0,sp_mtg_cine_intro,5243,sp_marina_loading,0,0,sp_marina_mission_preview,0,0,,,netherlands,0,0,0,0,F60D0000C95E03FC
+3,montage_canals,0,sp_cnls_cine_intro,1965,sp_montage_canals_loading,0,0,sp_canals_mission_preview,0,0,,,netherlands,0,0,0,0,7FC8009B854AA6BF
+4,border,0,sp_brdr_cine_intro,950,sp_border_loading,0,0,sp_border_mission_preview,0,0,,,gulf,0,0,0,0,B1D1308DE2C3376B
+5,backstabbed,0,sp_bs_cine_intro,6678,sp_backstabbed_loading,0,0,sp_backstabbed_mission_preview,0,0,,,mexico,0,0,0,0,3AF67B38B0C7B25B
+6,gunship_compound,0,sp_gscom_cine_intro,1750,sp_gunship_compound_loading,0,0,sp_gunship_compound_mission_preview,0,0,,,mexico,0,0,0,0,885317AB3EB4C06F
+7,gunship_ambush,0,sp_gsamb_cine_intro,533,sp_gunship_ambush_loading,0,0,sp_gunship_ambush_mission_preview,0,0,,,mexico,0,0,0,0,8A60AF43EB9E0AF4
+8,intercept,0,sp_intcpt_cine_intro,6721,sp_intercept_loading,0,0,sp_intercept_mission_preview,0,0,,,spain,0,0,0,0,CF35F2A20D29FBF7
+9,convoy_chase,0,sp_con_cine_intro,4225,sp_convoy_loading,0,0,sp_convoy_mission_preview,0,0,,,urzikstan,0,0,0,0,FE54A9668CB7758D
+10,party,0,sp_prty_cine_intro,4569,sp_party_loading,0,0,sp_party_mission_preview,0,0,,,mexico,0,0,0,0,8969EC4B427BBB29
+11,shipaf,0,sp_intdic_cine_intro,7385,sp_shipaf_loading,0,0,sp_shipaf_mission_preview,0,0,,,gulf,0,0,0,0,E15F12CE998C7B4E
+12,wounded,0,sp_wou_cine_intro,4754,sp_wounded_loading,0,0,sp_wounded_mission_preview,0,0,,,mexico,0,0,0,0,7D988144E5C26402
+13,prison,0,sp_pri_cine_intro,5400,sp_prison_loading,0,0,sp_prison_mission_preview,0,0,,,mexico,0,0,0,0,48D3B436E2D2ABF
+14,stolen,0,sp_sto_cine_intro,637,sp_stolen_loading,0,0,sp_stolen_mission_preview,0,0,,,republic,0,0,0,0,926B6299D5DAAEF3
+15,shadowbase,0,sp_sb_cine_intro,5869,sp_shadowbase_loading,0,0,sp_shadowbase_mission_preview,0,0,,,mexico,0,0,0,0,18F99285EB85B603
+16,tower,0,sp_high_cine_intro,5677,sp_tower_loading,0,0,sp_tower_mission_preview,0,0,,,chicago,0,0,0,0,87BBA73125F1C9A6

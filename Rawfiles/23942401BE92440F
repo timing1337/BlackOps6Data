@@ -1,0 +1,705 @@
+                                                                                         
+                                          
+
+                               
+
+                          
+                                          
+
+                               
+setStorageFile "loadouts" "squadMembers" "defaultSet" 1
+setStorageFile "loadouts" "squadMembers" "inUse" 1
+
+                             
+setStorageFile "loadouts" "squadMembers" "killstreakSetups" 0 "killstreak" "uav"
+setStorageFile "loadouts" "squadMembers" "killstreakSetups" 1 "killstreak" "cruise_predator"
+setStorageFile "loadouts" "squadMembers" "killstreakSetups" 2 "killstreak" "fuel_airstrike"
+
+                     
+setStorageFile "loadouts" "squadMembers" "archetype" "archetype_assault"
+setStorageFile "loadouts" "squadMembers" "archetypePerk" "specialty_null"
+setStorageFile "loadouts" "squadMembers" "archetypeSuper" "super_ammo_drop"
+
+                         
+                                                                                                                          
+setStorageFile "loadouts" "squadMembers" "taunt" "iw7_taunt_rare_6"
+setStorageFile "loadouts" "squadMembers" "taunts" 0 "iw7_taunt_rare_6"
+setStorageFile "loadouts" "squadMembers" "taunts" 1 "iw7_taunt_rare_6"
+setStorageFile "loadouts" "squadMembers" "taunts" 2 "iw7_taunt_rare_6"
+setStorageFile "loadouts" "squadMembers" "taunts" 3 "iw7_taunt_rare_6"
+
+                 
+setStorageFile "loadouts" "squadMembers" "cpLoadoutSel" 0
+
+                            
+setStorageFile "loadouts" "squadMembers" "cpFieldUpgrade" "role_tank"
+
+                    
+setStorageFile "loadouts" "squadMembers" "munitionSetups" 0 "munition" "empty1"
+setStorageFile "loadouts" "squadMembers" "munitionSetups" 1 "munition" "empty2"
+setStorageFile "loadouts" "squadMembers" "munitionSetups" 2 "munition" "empty3"
+
+setStorageFile "loadouts" "squadMembers" "munitionWaveModeSetups" 0 "munition" "empty1"
+setStorageFile "loadouts" "squadMembers" "munitionWaveModeSetups" 1 "munition" "empty2"
+setStorageFile "loadouts" "squadMembers" "munitionWaveModeSetups" 2 "munition" "empty3"
+                         
+
+                      
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 0 "name" "LUA_MENU_MP/LOADOUT_1"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "inUse" 1
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "weapon" "iw9_ar_mike4"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 4 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "weapon" "iw9_sh_mbravo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "weapon" "iw9_sh_mbravo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "loadoutPerks" 0 "specialty_munitions_2"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "loadoutPerks" 1 "specialty_scavenger_plus"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "loadoutPerks" 2 "specialty_hardline"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_tac_cover"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "equippedPerkPackageIndex" 0
+
+
+                     
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 1 "name" "LUA_MENU_MP/LOADOUT_2"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "inUse" 1
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "weapon" "iw9_sm_papa90"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 4 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "weapon" "iw9_la_gromeo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "weapon" "iw9_la_gromeo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "equipmentSetups" 1 "equipment" "equip_shockstick"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "loadoutPerks" 0 "specialty_tactical_recon"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "loadoutPerks" 2 "specialty_restock"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_recon_drone"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 1 "equippedPerkPackageIndex" 2
+
+
+                      
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 2 "name" "LUA_MENU_MP/LOADOUT_3"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "inUse" 1
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "overkill" 1
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "weapon" "iw9_sn_mromeo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 4 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "weapon" "iw9_pi_papa220"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "weapon" "iw9_pi_papa220"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "equipmentSetups" 0 "equipment" "equip_at_mine"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "equipmentSetups" 1 "equipment" "equip_shockstick"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "loadoutPerks" 2 "specialty_covert_ops"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_sound_veil"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 2 "equippedPerkPackageIndex" 5
+
+
+                      
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 3 "name" "LUA_MENU_MP/LOADOUT_4"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "inUse" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "weapon" "iw9_lm_kilo21"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "fourx02"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "bar_lm_long_p02_kilo21"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "weapon" "iw9_la_juliet"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "weapon" "iw9_la_gromeo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "equipmentSetups" 0 "equipment" "equip_c4"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "loadoutPerks" 2 "specialty_covert_ops"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 3 "equippedPerkPackageIndex" 2
+
+
+                     
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 4 "name" "LUA_MENU_MP/LOADOUT_5"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "inUse" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "weapon" "iw9_sn_mromeo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "weapon" "iw9_pi_decho"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "weapon" "iw9_pi_decho"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "equipmentSetups" 0 "equipment" "equip_claymore"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "equipmentSetups" 1 "equipment" "equip_shockstick"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "loadoutPerks" 2 "specialty_covert_ops"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 4 "equippedPerkPackageIndex" 2
+
+
+                                       
+
+                                                                                                          
+
+          
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "archetype" "archetype_assault"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "archetypePerk" "specialty_boom"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "archetypeSuper" "super_blinding_turret"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "head" "head_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "body" "body_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "taunt" "iw7_taunt_rare_6"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "taunts" 0 "iw7_taunt_rare_6"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "taunts" 1 "iw7_taunt_rare_6"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "taunts" 2 "iw7_taunt_rare_6"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "taunts" 3 "iw7_taunt_rare_6"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 0 "gesture" "ui_gesture_thumbs_up"
+
+        
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "archetype" "archetype_assault"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "archetypePerk" "specialty_regenfaster"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "archetypeSuper" "none"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "head" "head_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "body" "body_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "taunt" "iw7_taunt_rare_8"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "taunts" 0 "iw7_taunt_rare_8"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "taunts" 1 "iw7_taunt_rare_8"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "taunts" 2 "iw7_taunt_rare_8"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "taunts" 3 "iw7_taunt_rare_8"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 1 "gesture" "ui_gesture_kill"
+
+           
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "archetype" "archetype_assault"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "archetypePerk" "specialty_rush"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "archetypeSuper" "none"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "head" "head_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "body" "body_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "taunt" "iw7_taunt_rare_10"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "taunts" 0 "iw7_taunt_rare_10"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "taunts" 1 "iw7_taunt_rare_10"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "taunts" 2 "iw7_taunt_rare_10"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "taunts" 3 "iw7_taunt_rare_10"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 2 "gesture" "ui_gesture_kill"
+
+      
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "archetype" "archetype_assault"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "archetypePerk" "specialty_superpack"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "archetypeSuper" "none"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "head" "head_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "body" "body_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "taunt" "iw7_taunt_rare_3"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "taunts" 0 "iw7_taunt_rare_3"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "taunts" 1 "iw7_taunt_rare_3"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "taunts" 2 "iw7_taunt_rare_3"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "taunts" 3 "iw7_taunt_rare_3"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 3 "gesture" "ui_gesture_kill"
+
+           
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "archetype" "archetype_assault"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "archetypePerk" "specialty_equipment_ping"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "archetypeSuper" "none"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "head" "head_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "body" "body_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "taunt" "iw7_taunt_rare_14"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "taunts" 0 "iw7_taunt_rare_14"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "taunts" 1 "iw7_taunt_rare_14"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "taunts" 2 "iw7_taunt_rare_14"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "taunts" 3 "iw7_taunt_rare_14"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 4 "gesture" "ui_gesture_kill"
+
+       
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "archetype" "archetype_assault"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "archetypePerk" "specialty_mark_targets"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "archetypeSuper" "none"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "head" "head_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "body" "body_1"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "taunt" "iw7_taunt_rare_7"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "taunts" 0 "iw7_taunt_rare_7"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "taunts" 1 "iw7_taunt_rare_7"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "taunts" 2 "iw7_taunt_rare_7"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "taunts" 3 "iw7_taunt_rare_7"
+setStorageFile "loadouts" "squadMembers" "archetypePreferences" 5 "gesture" "ui_gesture_kill"
+
+
+                                                                                                           
+
+                                 
+
+                 
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 5 "name" "LUA_MENU_MP/LOADOUT_6"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "inUse" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "weapon" "iw9_ar_golf3"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "weapon" "iw9_pi_decho"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "weapon" "iw9_pi_decho"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "loadoutPerks" 2 "specialty_covert_ops"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 5 "equippedPerkPackageIndex" 2
+
+                  
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 6 "name" "LUA_MENU_MP/LOADOUT_7"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "inUse" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "weapon" "iw9_sm_mpapa5"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "weapon" "iw9_pi_papa220"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 2 "weapon" "iw9_pi_papa220"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "loadoutPerks" 2 "specialty_covert_ops"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 6 "equippedPerkPackageIndex" 2
+
+
+                  
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 7 "name" "LUA_MENU_MP/LOADOUT_8"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "inUse" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "weapon" "iw9_sh_mbravo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "weapon" "iw9_la_gromeo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 2 "weapon" "iw9_la_gromeo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "loadoutPerks" 2 "specialty_covert_ops"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 7 "equippedPerkPackageIndex" 2
+
+                      
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 8 "name" "LUA_MENU_MP/LOADOUT_9"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "inUse" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "weapon" "iw9_lm_kilo21"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "weapon" "iw9_pi_decho"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 2 "weapon" "iw9_pi_decho"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "equipmentSetups" 0 "equipment" "equip_claymore"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "loadoutPerks" 2 "specialty_covert_ops"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_deadsilence"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 8 "equippedPerkPackageIndex" 2
+
+                      
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 9 "name" "LUA_MENU_MP/LOADOUT_10"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "inUse" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "weapon" "iw9_sn_mromeo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "weapon" "iw9_pi_papa220"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 2 "weapon" "iw9_pi_papa220"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "equipmentSetups" 0 "equipment" "equip_claymore"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "loadoutPerks" 2 "specialty_covert_ops"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 9 "equippedPerkPackageIndex" 2
+
+
+                      
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 10 "name" "LUA_MENU_MP/LOADOUT_11"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "inUse" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "weapon" "iw9_sn_mromeo"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "weapon" "iw9_pi_papa220"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 2 "weapon" "iw9_pi_papa220"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "equipmentSetups" 0 "equipment" "equip_claymore"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "loadoutPerks" 2 "specialty_covert_ops"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 10 "equippedPerkPackageIndex" 2
+
+
+                  
+setStorageFile_loc "loadouts" "squadMembers" "loadouts" 11 "name" "LUA_MENU_MP/LOADOUT_12"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "inUse" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "overkill" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "weapon" "iw9_ar_golf3"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 0 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "weapon" "iw9_pi_decho"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "weapon" "iw9_pi_decho"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 2 "reticle" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "weaponSetups" 2 "variantID" 0
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "loadoutPerks" 0 "specialty_hustle"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "loadoutPerks" 1 "specialty_huntmaster"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "loadoutPerks" 2 "specialty_covert_ops"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+setStorageFile "loadouts" "squadMembers" "loadouts" 11 "equippedPerkPackageIndex" 2
+
+
+           
+
+
+setStorageFile "loadouts" "customizationSetup" "radial" 0 210000
+setStorageFile "loadouts" "customizationSetup" "radial" 1 190217
+setStorageFile "loadouts" "customizationSetup" "radial" 2 190218
+setStorageFile "loadouts" "customizationSetup" "radial" 3 190219
+setStorageFile "loadouts" "customizationSetup" "radial" 4 190220
+setStorageFile "loadouts" "customizationSetup" "radial" 5 190221
+setStorageFile "loadouts" "customizationSetup" "radial" 6 190222
+setStorageFile "loadouts" "customizationSetup" "radial" 7 190223
+
+setStorageFile "loadouts" "customizationFavorites" "favoriteLoadoutIndex" 0
+
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "fender_western" "intro" 0
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "intro" 1
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "intro" 2
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "intro" 3
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "chili_western" "intro" 4
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "intro" 5
+
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "fender_western" "taunt" 0
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "taunt" 1
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "taunt" 2
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "taunt" 3
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "chili_western" "taunt" 4
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "taunt" 5
+
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "hutch_western" "skin" #x45163439f0449b3a9
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "kpop_eastern" "skin" #x4374c20500aaf7455
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "gus_western" "skin" #x445cf02ca48df582e
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "zimo_western" "skin" #x461d7cab2c72dcd26
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "kleo_western" "skin" #x4f37433da51d3f74
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "nova_eastern" "skin" #x41659d9435a56cbcf
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "price_western" "skin" #x4427b7a56d0b26c52
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "farah_western" "skin" #x448a89af37208d6ab
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "ghost_western" "skin" #x439543e23437af108
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "kpop_eastern" "skin" #x4374c20500aaf7455
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "milsim_western_1" "skin" #x419d82250b1e2285e
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "milsim_eastern_1" "skin" #x491761a43fc721c4
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "soap_western" "skin" #x4140eac49169d07f4
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "oni_eastern" "skin" #x43cdbe54b8fb2b18d
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "gromsko_western" "skin" #x46306feec5c2e64fb
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "reyes_western" "skin" #x4581fe1c983fd027f
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "luna_western" "skin" #x45a717a380a6f3425
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "roze_eastern" "skin" #x4255d973c0df30fe3
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "zero_eastern" "skin" #x46f88b7fe4be1e1e3
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "conor_eastern" "skin" #x4c8f91dce2c70dc0
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "aksel_eastern" "skin" #x42907bb15a681884d
+setStorageFile "loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "skin" #x4d8a7340369c325e

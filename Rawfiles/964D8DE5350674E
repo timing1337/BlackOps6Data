@@ -1,0 +1,3 @@
+setStorageFile "cerberus_mp_leagueplayprogression" "rankedMatchData" "backpackSize" 5
+setStorageFile "cerberus_mp_leagueplayprogression" "rankedMatchData" "brBackpackSize" 5
+setStorageFile "cerberus_mp_leagueplayprogression" "rankedMatchData" "hasUpdatedBackpackSize" 1

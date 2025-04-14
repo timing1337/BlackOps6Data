@@ -1,0 +1,32 @@
+           
+                                                                  
+setStorageFile "mpdata" "rankedMatchData" "dmzInventory" 0 "lootID" 11338                 
+setStorageFile "mpdata" "rankedMatchData" "dmzInventory" 0 "quantity" 5
+setStorageFile "mpdata" "rankedMatchData" "dmzInventory" 1 "lootID" 11356                 
+setStorageFile "mpdata" "rankedMatchData" "dmzInventory" 1 "quantity" 3
+setStorageFile "mpdata" "rankedMatchData" "dmzInventory" 2 "lootID" 11352                  
+setStorageFile "mpdata" "rankedMatchData" "dmzInventory" 2 "quantity" 5
+setStorageFile "mpdata" "rankedMatchData" "dmzInventory" 3 "lootID" 11355                
+setStorageFile "mpdata" "rankedMatchData" "dmzInventory" 3 "quantity" 2
+setStorageFile "mpdata" "rankedMatchData" "dmzInventory" 4 "lootID" 0
+setStorageFile "mpdata" "rankedMatchData" "dmzInventory" 4 "quantity" 99
+setStorageFile "mpdata" "rankedMatchData" "backpackSize" 8
+setStorageFile "mpdata" "rankedMatchData" "brBackpackSize" 8
+setStorageFile "mpdata" "rankedMatchData" "dmzBackpackSize" 5
+setStorageFile "mpdata" "rankedMatchData" "dmzPlateCarrierLevel" 1
+                                               
+
+setStorageFile "mpdata" "rankedMatchData" "dmzBankedCash" 100
+setStorageFile "mpdata" "rankedMatchData" "dmzPocketCash" 0
+
+                   
+setStorageFile "mpdata" "rankedMatchData" "squadMembers" "loadouts" 0 "inUse" 1
+setStorageFile "mpdata" "rankedMatchData" "squadMembers" "loadouts" 0 "weaponSetups" 0 "weapon" "iw9_ar_kilo53"
+setStorageFile "mpdata" "rankedMatchData" "squadMembers" "loadouts" 0 "weaponSetups" 0 "lootItemID" 8137
+setStorageFile "mpdata" "rankedMatchData" "squadMembers" "loadouts" 0 "weaponSetups" 0 "variantID" 0
+setStorageFile "mpdata" "rankedMatchData" "squadMembers" "loadouts" 0 "weaponSetups" 1 "weapon" "iw9_pi_papa220"
+setStorageFile "mpdata" "rankedMatchData" "squadMembers" "loadouts" 0 "weaponSetups" 1 "lootItemID" 8054
+setStorageFile "mpdata" "rankedMatchData" "squadMembers" "loadouts" 0 "weaponSetups" 1 "variantID" 0
+setStorageFile "mpdata" "rankedMatchData" "squadMembers" "loadouts" 0 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "mpdata" "rankedMatchData" "squadMembers" "loadouts" 0 "equipmentSetups" 1 "equipment" "equip_smoke"
+setStorageFile "mpdata" "rankedMatchData" "squadMembers" "loadouts" 0 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"

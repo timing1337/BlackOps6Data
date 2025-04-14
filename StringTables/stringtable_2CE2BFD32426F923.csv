@@ -1,0 +1,5 @@
+ui_securitystation_cctv_state,1,,c,i,0,0,5,,,,,,
+ui_securitystation_cctv_camid,1,,c,i,0,0,9999,,,,,,
+ui_securitystation_cctv_damaged,1,,c,i,0,0,2,,,,,,
+ui_securitystation_cctv_hidevisgroup,1,,c,i,0,0,5,,,,,,
+ui_securitystation_page,1,,c,i,0,0,5,,,,,,

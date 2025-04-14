@@ -1,0 +1,31 @@
+                                                                         
+                                          
+
+                  
+setStorageFile "cpdata" "coopMatchData" "coopCareerStats" "currency" 0
+setStorageFile "cpdata" "coopMatchData" "coopCareerStats" "spentCurrency" 0
+setStorageFile "cpdata" "coopMatchData" "coopCareerStats" "totalCurrency" 0
+
+setStorageFile "cpdata" "coopMatchData" "inventorySlots" "slot1" "ammo_crate"
+setStorageFile "cpdata" "coopMatchData" "inventorySlots" "slot2" "armor"
+setStorageFile "cpdata" "coopMatchData" "inventorySlots" "slot3" "scout_drone"
+setStorageFile "cpdata" "coopMatchData" "inventorySlots" "slot4" "grenade_crate"
+setStorageFile "cpdata" "coopMatchData" "inventorySlots" "activeSlot" "1"
+setStorageFile "cpdata" "coopMatchData" "inventorySlots" "totalSlots" "1"
+
+
+setStorageFile "cpdata" "coopMatchData" "explosive_kills" 0
+
+setStorageFile "cpdata" "coopMatchData" "tacOpsAchievements" "threestarbadsit" 0
+setStorageFile "cpdata" "coopMatchData" "tacOpsAchievements" "threestarvehesc" 0
+setStorageFile "cpdata" "coopMatchData" "tacOpsAchievements" "threestarobservatory" 0
+setStorageFile "cpdata" "coopMatchData" "tacOpsAchievements" "onestarcp" 0
+setStorageFile "cpdata" "coopMatchData" "tacOpsAchievements" "noalarmbadsit" 0
+setStorageFile "cpdata" "coopMatchData" "tacOpsAchievements" "fullsse" 0
+
+setStorageFile "cpdata" "coopMatchData" "dmzInventory" 0 "lootID" 0
+setStorageFile "cpdata" "coopMatchData" "dmzInventory" 0 "quantity" 99
+                                                                                     
+
+                                                                                        
+                                                            

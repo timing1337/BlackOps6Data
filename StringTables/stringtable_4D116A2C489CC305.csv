@@ -1,0 +1,5 @@
+include,omnvars/cp_mp/zombie/omnvars_zombie_powerups.csv,,,,,,
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,
+include,omnvars/mp/omnvars_team_status_lives.csv,,,,,,
+ui_infect_nvg_hud_icon,1,,c,b,0,0,1
+ui_infect_start_countdown,1,,c,i,0,-1,90

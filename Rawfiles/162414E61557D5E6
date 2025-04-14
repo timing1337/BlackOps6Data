@@ -1,0 +1,2 @@
+setStorageFile "mgl_playerdata" "rankedMatchData" "backpackSize" 5
+setStorageFile "mgl_playerdata" "rankedMatchData" "brBackpackSize" 5

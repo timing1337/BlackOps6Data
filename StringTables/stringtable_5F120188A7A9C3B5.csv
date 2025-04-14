@@ -1,0 +1,9 @@
+legend,exfil,ui_map_icon_cp_mp_exfil,,0,,,,,0
+legend,activityStarter,ui_map_icon_ph_bg,,0,,,,,0
+legend,radiationArea,jup_ui_map_icon_obj_radiation,,0,,,,,0
+legend,armoryKiosk,ui_map_icon_poi_shop,,0,,,,,0
+legend,packapunch,ui_icon_minimap_weaponupgrade,,0,,,,,0
+legend,perkstation,ui_map_icon_obj_bg,,0,,,,,0
+legend,fortress,ui_map_icon_fortress,,0,,,,,0
+legend,wallbuy,ui_icon_minimap_wallbuys,,0,,,,,0
+legend,mysteryBox,ui_icon_minimap_mysterybox,,0,,,,,0

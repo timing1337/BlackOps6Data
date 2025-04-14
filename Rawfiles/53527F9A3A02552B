@@ -1,0 +1,40 @@
+{
+	"ignored" : 
+	[
+		"acceptedEULA",
+		"inGameInputMethod",
+		"gpadEnabled",
+		"hasSeenAutoImportSettingNotif",
+		"inGameTextChatEnabled",
+		"toggleTooltipEnable",
+		"inputRelatedPrompts",
+		"gpadMinDeadzoneLeft",
+		"gpadMinDeadzoneRight",
+		"httpStreamUsageLimit",
+		"httpStreamLimitMBytes",
+		"motionBlurEnabled",
+		"weaponMotionBlurEnabled",
+		"motd",
+		"DofEnable",
+		"SafeAreaHorizontal",
+		"SafeAreaVertical",
+		"SustainabilityMode",
+		"displayTelemetryFPS",
+		"displayTelemetryGpuClock",
+		"displayTelemetryGpuTemperature",
+		"displayTelemetryGpuTime",
+		"displayTelemetryCpuTime",
+		"showMicrophoneMuted",
+		"showSoundMuted",
+		"showVoiceChatMuted",
+		"displayTelemetryPacketLoss",
+		"displayTelemetryLatency",
+		"displayTelemetrySystemClock",
+		"displayTelemetryVRAMUsage",
+		"displayConnectionMeter",
+		"displayNetworkAlertIcon",
+		"displayHardwareAlertIcon"
+
+
+	]
+}

@@ -1,0 +1,6 @@
+ui_br_extended_load_screen,1,,c,i,0,0,1
+ui_head_equip_class,1,1,c,i,0,0,3
+ui_player_spawn_protection_time,1,,c,f,0,0,100
+ui_damage_intensity,1,,c,i,1,0,100
+ui_lucky_killstreak_progress,1,,c,i,0,0,100
+ui_explosive_regen_delay_effect_active,1,,c,b,0,0,1

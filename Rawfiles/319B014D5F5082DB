@@ -1,0 +1,356 @@
+//----------------------------------Weapon classes----------------------------------------------
+
+//Weapon Classes
+commonOption.weaponClassRestricted.weapon_battle = 0                //Battle Rifles
+
+//----------------------------------BO6 CONTENT----------------------------------------------
+
+//Attachments
+//Barrels
+commonOption.attachmentRestricted.t10_bar_highcal_ar_able18 = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_ar_aking = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_ar_clove = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_ar_coslo = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_ar_fable = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_ar_love85 = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_ar_rmary2 = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_ar_tbaker = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_dm_aeasy = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_dm_falove = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_dm_sgeorge = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_dm_sroger25 = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_dm_svalor = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_lm_aroger10 = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_lm_ksugar58 = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_lm_puncle21 = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_lm_uxray = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_pi_mable = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_pi_paris30 = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_pi_stiger = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_pi_usugar45 = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sh_jhavana = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sh_uncle12 = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sm_chuck9 = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sm_geasy9 = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sm_perth = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sm_pparis90 = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sm_roger31 = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sm_safox = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sm_saug = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sm_sroger3 = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sn_droger = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sn_love96 = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sn_mary82 = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sn_ultiger = 1		//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_ar_kent = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_ar_gilroy = 1			//High Caliber Barrel
+commonOption.attachmentRestricted.t10_bar_highcal_sn_hugo = 1			//High Caliber Barrel
+
+//Fire Mods
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_ar_able18 = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_ar_aking74 = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_ar_asvalor = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_ar_clove = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_ar_coslo723 = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_ar_fable = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_ar_love85 = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_ar_tbaker = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_dm_aeasy = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_dm_sgeorge550 = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_lm_aroger10 = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_lm_ksugar58 = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_lm_puncle21 = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_lm_uxray = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_sh_jhavana = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_sm_chuck9 = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_sm_geasy9 = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_sm_perth = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_sm_pparis90 = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_sm_roger31 = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_sm_safox = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_sm_saug = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_sm_sroger3 = 1		//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_ar_rmary2 = 1				//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_dm_falove = 1				//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_dm_sroger25 = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_dm_svalor = 1				//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_pi_mable = 1				//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_pi_paris30 = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_pi_stiger = 1				//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_pi_usugar45 = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_sh_uncle12 = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_sn_droger = 1				//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_trigger_sn_mary82 = 1				//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_ar_kent = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_boltcarrier_ar_gilroy = 1			//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_bolt_sn_hugo = 1					//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_bolt_sn_love96 = 1				//Rapid Fire
+commonOption.attachmentRestricted.t10_firemod_bolt_sn_ultiger = 1				//Rapid Fire
+
+//Ammunition
+commonOption.attachmentRestricted.t10_ammo_12g_db_sh_jhavana = 1		//Dragon's Breath Ammunition
+commonOption.attachmentRestricted.t10_ammo_12g_db_sh_uncle12 = 1		//Dragon's Breath Ammunition
+commonOption.attachmentRestricted.t10_ammo_12g_db_sh_moslo500 = 1		//Dragon's Breath Ammunition
+
+//Underbarrel Launchers
+commonOption.attachmentRestricted.t10_ub_gl_dc_ar_able18 = 1		//Drill Charge Launcher
+commonOption.attachmentRestricted.t10_ub_gl_dc_ar_aking74 = 1		//Drill Charge Launcher
+commonOption.attachmentRestricted.t10_ub_gl_dc_ar_asvalor = 1		//Drill Charge Launcher
+commonOption.attachmentRestricted.t10_ub_gl_dc_ar_clove = 1			//Drill Charge Launcher
+commonOption.attachmentRestricted.t10_ub_gl_dc_ar_coslo723 = 1		//Drill Charge Launcher
+commonOption.attachmentRestricted.t10_ub_gl_dc_ar_fable = 1			//Drill Charge Launcher
+commonOption.attachmentRestricted.t10_ub_gl_dc_ar_love85 = 1		//Drill Charge Launcher
+commonOption.attachmentRestricted.t10_ub_gl_dc_ar_rmary2 = 1		//Drill Charge Launcher
+commonOption.attachmentRestricted.t10_ub_gl_dc_ar_tbaker = 1		//Drill Charge Launcher
+commonOption.attachmentRestricted.t10_ub_gl_dc_dm_aeasy = 1			//Drill Charge Launcher
+commonOption.attachmentRestricted.t10_ub_gl_dc_dm_sgeorge550 = 1	//Drill Charge Launcher
+
+commonOption.attachmentRestricted.t10_ub_gl_he_ar_able18 = 1		//High Explosive Launcher
+commonOption.attachmentRestricted.t10_ub_gl_he_ar_aking74 = 1		//High Explosive Launcher
+commonOption.attachmentRestricted.t10_ub_gl_he_ar_asvalor = 1		//High Explosive Launcher
+commonOption.attachmentRestricted.t10_ub_gl_he_ar_clove = 1			//High Explosive Launcher
+commonOption.attachmentRestricted.t10_ub_gl_he_ar_coslo723 = 1		//High Explosive Launcher
+commonOption.attachmentRestricted.t10_ub_gl_he_ar_fable = 1			//High Explosive Launcher
+commonOption.attachmentRestricted.t10_ub_gl_he_ar_love85 = 1		//High Explosive Launcher
+commonOption.attachmentRestricted.t10_ub_gl_he_ar_rmary2 = 1		//High Explosive Launcher
+commonOption.attachmentRestricted.t10_ub_gl_he_ar_tbaker = 1		//High Explosive Launcher
+commonOption.attachmentRestricted.t10_ub_gl_he_dm_aeasy = 1			//High Explosive Launcher
+commonOption.attachmentRestricted.t10_ub_gl_he_dm_sgeorge550 = 1	//High Explosive Launcher
+
+commonOption.attachmentRestricted.t10_ub_gl_std_ar_able18 = 1		//Standard Launcher
+commonOption.attachmentRestricted.t10_ub_gl_std_ar_aking74 = 1		//Standard Launcher
+commonOption.attachmentRestricted.t10_ub_gl_std_ar_asvalor = 1		//Standard Launcher
+commonOption.attachmentRestricted.t10_ub_gl_std_ar_clove = 1		//Standard Launcher
+commonOption.attachmentRestricted.t10_ub_gl_std_ar_coslo723 = 1		//Standard Launcher
+commonOption.attachmentRestricted.t10_ub_gl_std_ar_fable = 1		//Standard Launcher
+commonOption.attachmentRestricted.t10_ub_gl_std_ar_love85 = 1		//Standard Launcher
+commonOption.attachmentRestricted.t10_ub_gl_std_ar_rmary2 = 1		//Standard Launcher
+commonOption.attachmentRestricted.t10_ub_gl_std_ar_tbaker = 1		//Standard Launcher
+commonOption.attachmentRestricted.t10_ub_gl_std_dm_aeasy = 1		//Standard Launcher
+commonOption.attachmentRestricted.t10_ub_gl_std_dm_sgeorge550 = 1	//Standard Launcher
+
+//Optics
+commonOption.attachmentRestricted.t10_thermal01_ar = 1			//Thermal Optic
+commonOption.attachmentRestricted.t10_thermal01_dmr = 1			//Thermal Optic
+commonOption.attachmentRestricted.t10_thermal01_lmg = 1			//Thermal Optic
+commonOption.attachmentRestricted.t10_thermal01_smg = 1			//Thermal Optic
+commonOption.attachmentRestricted.t10_thermal01_sn = 1			//Thermal Optic
+commonOption.attachmentRestricted.t10_thermal_holo_dmr = 1		//Thermal Optic
+commonOption.attachmentRestricted.t10_thermal_holo_lmg = 1		//Thermal Optic
+commonOption.attachmentRestricted.t10_thermal_holo_smg = 1		//Thermal Optic
+commonOption.attachmentRestricted.t10_thermal_holo_sn = 1		//Thermal Optic
+commonOption.attachmentRestricted.t10_thermal_scope_dmr = 1		//Thermal Optic
+commonOption.attachmentRestricted.t10_thermal_scope_sn = 1		//Thermal Optic
+
+//Launcher
+commonOption.weaponRestricted.t10_la_p17_pable3 = 1					//HE-1
+commonOption.weaponRestricted.t10_la_p18_stisaac = 1				//CIGMA 2B
+commonOption.weaponRestricted.t10_la_mangler_cannon = 1				//Mangler Cannon
+
+//Specials
+commonOption.weaponRestricted.t10_sl_p35_blauncher = 1				//Blade Launcher
+
+//Perks
+commonOption.perkRestricted.specialty_overwatch = 1 				//Birdseye
+commonOption.perkRestricted.specialty_alertness = 1 				//Alertness
+
+//Equipment
+commonOption.equipmentRestricted.equip_gas_grenade = 1				//Gas Grenade
+
+//Wildcards
+commonOption.wildcardRestricted.wildcard_equipment_expert = 1			//Bandolier
+
+//----------------------------------MWIII CONTENT----------------------------------------------
+//ARs
+commonOption.weaponRestricted.jup_jp01_ar_golf36 = 1				//Holger 556
+commonOption.weaponRestricted.jup_jp08_ar_qbravo97 = 1				//DG-58
+commonOption.weaponRestricted.jup_cp06_ar_falpha = 1				//FR 5.56
+commonOption.weaponRestricted.jup_jp02_ar_bromeo805 = 1				//MTZ 556
+commonOption.weaponRestricted.jup_jp19_ar_acharlie = 1			    //MCW
+commonOption.weaponRestricted.jup_jp36_ar_anov94 = 1			    //SVA 545
+commonOption.weaponRestricted.jup_jp25_ar_talpha95 = 1			    //RAM-7
+commonOption.weaponRestricted.jup_jp05_ar_foxtrot2000 = 1			//BP50 - S2
+commonOption.weaponRestricted.jup_jp34_ar_balpha27 = 1              //BAL27
+commonOption.weaponRestricted.jup_jp44_ar_stango44 = 1              //STG44
+
+//BRS
+commonOption.weaponRestricted.jup_jp02_br_bromeo2 = 1				//BREN 2
+commonOption.weaponRestricted.jup_jp19_br_acharlie450 = 1			//ACR Bushmaster 450
+commonOption.weaponRestricted.jup_jp03_br_aromeo200 = 1				//SOA Subverter
+commonOption.weaponRestricted.jup_cp08_br_xmike5 = 1				//XM5
+commonOption.weaponRestricted.jup_jp40_br_hcharlie36 = 1			//DTIR 30-06
+
+//Marksman DMRs
+commonOption.weaponRestricted.jup_jp37_dm_kappa98 = 1				//Kar 98
+commonOption.weaponRestricted.jup_jp19_dm_acharlied = 1				//ACR DMR
+commonOption.weaponRestricted.jup_jp13_dm_svictork = 1				//SVK
+commonOption.weaponRestricted.jup_jp01_dm_slima8 = 1				//SL8
+commonOption.weaponRestricted.jup_jp02_dm_bromeop = 1				//Bren 2 pps
+
+//SMGs
+commonOption.weaponRestricted.jup_jp04_sm_umike = 1			        //Striker
+commonOption.weaponRestricted.jup_jp07_sm_uzulup = 1			    //WSP Swarm
+commonOption.weaponRestricted.jup_cp01_sm_coscar635 = 1			    //AMR9
+commonOption.weaponRestricted.jup_jp07_sm_uzulu = 1			        //WSP-9
+commonOption.weaponRestricted.jup_jp02_sm_scharlie3 = 1			    //Rival-9
+commonOption.weaponRestricted.jup_jp04_sm_lwhiskey = 1			    //Striker 9
+commonOption.weaponRestricted.jup_jp03_sm_pmike = 1			        //HRM-9
+commonOption.weaponRestricted.jup_jp25_sm_talpham = 1			    //RAM-9 - S2
+commonOption.weaponRestricted.jup_jp32_pi_mpapa9 = 1                //FJX Horus
+commonOption.weaponRestricted.jup_cp01_sm_pcharlie9 = 1             //Superi 46
+commonOption.weaponRestricted.jup_jp41_sm_kpappa50 = 1              //Static-HV
+
+//LMGs
+commonOption.weaponRestricted.jup_jp20_lm_evictor = 1	     	    //TAQ Evolvere
+commonOption.weaponRestricted.jup_jp01_lm_mgolf36 = 1			    //Holger 26
+commonOption.weaponRestricted.jup_jp08_lm_qbravo95lsw = 1		    //DG-58 LSW
+commonOption.weaponRestricted.jup_jp06_lm_pkilop = 1	        	//Pulemyot 762
+commonOption.weaponRestricted.jup_cp05_lm_halpha = 1		    	//TAQ Eradicator
+commonOption.weaponRestricted.jup_cp15_lm_mkilo3 = 1		    	//Bruen Mk9
+commonOption.weaponRestricted.jup_jp28_lm_rpapa20 = 1		    	//Kastov LSW
+
+//Shotguns
+commonOption.weaponRestricted.jup_jp38_sh_spapa12 = 1		  	    //reclaimer 18
+commonOption.weaponRestricted.jup_jp16_sh_recho870 = 1	        	//Remington 870
+commonOption.weaponRestricted.jup_jp09_sh_oromeo12 = 1		    	//origin 12 haymaker
+commonOption.weaponRestricted.jup_cp01_sh_aromeo410 = 1	        	//Riveter
+
+//Snipers
+commonOption.weaponRestricted.jup_jp10_sn_cdelta50 = 1         	 	//MCPR-300
+commonOption.weaponRestricted.jup_jp13_sn_svictor = 1          	 	//Signal 50
+commonOption.weaponRestricted.jup_jp17_sn_hsierra = 1           	//Victus XMR
+commonOption.weaponRestricted.jup_jp35_sn_moscar = 1            	//FJX Imperium
+commonOption.weaponRestricted.jup_jp36_sn_boscar = 1     	        //Carrack .300
+
+//Pistols
+commonOption.weaponRestricted.jup_jp07_pi_uzulum = 1				//WSP Stinger
+commonOption.weaponRestricted.jup_cp24_pi_glima21 = 1				//COR-45
+commonOption.weaponRestricted.jup_jp14_pi_rsierra12 = 1				//TYR
+commonOption.weaponRestricted.jup_jp12_pi_mike93 = 1				//Renetti
+commonOption.weaponRestricted.jup_jp32_pi_mpapa9 = 1				//MP9
+
+//Launcher
+commonOption.weaponRestricted.jup_jp22_la_dromeo = 1				//Stormender
+commonOption.weaponRestricted.jup_jp26_la_mike32 = 1				//Grenade launcher RGL - 80
+commonOption.weaponRestricted.jup_jp31_dm_compound = 1				// torque 35
+
+//Melees
+commonOption.weaponRestricted.jup_jp23_me_spear = 1					//Spear
+commonOption.weaponRestricted.jup_jp23_me_shotel = 1				//Sledgehammer
+commonOption.weaponRestricted.jup_jp23_me_pdango = 1				// Gladiator
+commonOption.weaponRestricted.jup_jp23_me_swhiskey = 1				//Soulrender
+commonOption.weaponRestricted.jup_jp23_me_kalpha = 1				// Jup Karambit
+commonOption.weaponRestricted.jup_jp23_me_knife = 1					//Jup Knife
+
+//JUP WZ restrictions
+
+// Attachments - Scopes
+commonOption.attachmentRestricted.jup_hybrid_proj = 1				//TPS Incendio Reflex
+
+// Attachments - Ammunition
+commonOption.attachmentRestricted.ammo_bolt_he = 1					// Explosive Crossbow Bolt
+
+// Attachments - Equipment
+commonOption.equipmentRestricted.equip_thermobaric_grenade = 1		// Thermobaric Grenade
+commonOption.equipmentRestricted.equip_c4 = 1						// C4
+
+//----------------------------------MWII CONTENT----------------------------------------------
+//MWII Weapons
+//ARs
+commonOption.weaponRestricted.iw9_ar_scharlie = 1                   //TAQ 56
+commonOption.weaponRestricted.iw9_ar_mike4 = 1                      //M4
+commonOption.weaponRestricted.iw9_ar_augolf = 1                     //STB 556
+commonOption.weaponRestricted.iw9_ar_akilo = 1                      //Kastov 762
+commonOption.weaponRestricted.iw9_ar_mcharlie = 1                   //M13B
+commonOption.weaponRestricted.iw9_ar_mcbravo = 1					//Chimera
+commonOption.weaponRestricted.iw9_ar_acharlie300 = 1                //ISO Hemlock
+commonOption.weaponRestricted.iw9_ar_helima = 1                     //Tempus Razerback
+commonOption.weaponRestricted.iw9_ar_fecho = 1                      //FR Avancer
+commonOption.weaponRestricted.iw9_ar_ralpha = 1                     //M13C
+commonOption.weaponRestricted.iw9_ar_malima = 1                     //TR-76 Geist
+commonOption.weaponRestricted.iw9_ar_kilo53 = 1                     //Lachmann-556
+commonOption.weaponRestricted.iw9_ar_mike16 = 1                     //M16
+commonOption.weaponRestricted.iw9_ar_akilo74 = 1                    //Kastov 74U
+commonOption.weaponRestricted.iw9_ar_akilo105 = 1                   //Kastov 545
+
+//BRs
+commonOption.weaponRestricted.iw9_br_soscar14 = 1					//SO-14
+commonOption.weaponRestricted.iw9_ar_golf3 = 1						// Lachmann-762
+commonOption.weaponRestricted.iw9_br_msecho = 1						//Ftac recon
+commonOption.weaponRestricted.iw9_ar_schotel = 1					//TAq-v
+commonOption.weaponRestricted.iw9_br_ngsierra = 1					// cronen squall
+
+//Marksman DMRs
+commonOption.weaponRestricted.iw9_dm_stango25 = 1					//Tempus Torrent
+commonOption.weaponRestricted.iw9_dm_mike14 = 1						// EBR-14
+commonOption.weaponRestricted.iw9_dm_pgolf1 = 1						//lm-s
+commonOption.weaponRestricted.iw9_dm_la700 = 1						//la-b 330
+commonOption.weaponRestricted.iw9_dm_xmike2010 = 1					// sp-x 80
+commonOption.weaponRestricted.iw9_dm_mike24 = 1						//sp-r 208
+commonOption.weaponRestricted.iw9_dm_sbeta = 1						// lockwood mk2
+commonOption.weaponRestricted.iw9_dm_crossbow = 1					//crossbow
+commonOption.weaponRestricted.iw9_dm_sa700 = 1						//SA-b 50
+commonOption.weaponRestricted.iw9_dm_scromeo = 1					// TAq-m
+
+//SMGs
+commonOption.weaponRestricted.iw9_sm_sdelta = 1                     //Lachmann Shroud
+commonOption.weaponRestricted.iw9_sm_acharlie9 = 1                  //ISO 9MM
+commonOption.weaponRestricted.iw9_sm_papa90 = 1                     //PDSW 528
+commonOption.weaponRestricted.iw9_sm_mpapa7 = 1                     //Vel 46
+commonOption.weaponRestricted.iw9_sm_victor = 1                     //Fennec 45
+commonOption.weaponRestricted.iw9_sm_mpapax = 1                     //BAS-P
+commonOption.weaponRestricted.iw9_sm_acharlie45 = 1                 //ISO 45
+commonOption.weaponRestricted.iw9_sm_mpapa5 = 1                     //Lachmann Sub
+commonOption.weaponRestricted.iw9_sm_alpha57 = 1                    //FSS Hurricane
+commonOption.weaponRestricted.iw9_sm_apapa = 1                      //MX9
+commonOption.weaponRestricted.iw9_sm_beta = 1                       //Minibak
+commonOption.weaponRestricted.iw9_sm_aviktor = 1                    //Vaznev-9K
+
+//LMGs
+commonOption.weaponRestricted.iw9_lm_rkilo = 1			   		    //RPK
+commonOption.weaponRestricted.iw9_lm_kilo21 = 1					    //Rapp H
+commonOption.weaponRestricted.iw9_lm_foxtrot = 1				    //556 icarus
+commonOption.weaponRestricted.iw9_lm_ahotel = 1	  				    //HCR 56
+commonOption.weaponRestricted.iw9_lm_slima = 1					    //RAAL MG
+commonOption.weaponRestricted.iw9_lm_ngolf7 = 1					    //Sakin mg38
+
+//Shotguns
+commonOption.weaponRestricted.iw9_sh_vecho = 1						// KV Broadside
+commonOption.weaponRestricted.iw9_sh_tsierra12 = 1					// MX Guardian
+commonOption.weaponRestricted.iw9_sh_mviktor = 1					// Bryson 890
+commonOption.weaponRestricted.iw9_sh_mike1014 = 1					// expedite 12
+commonOption.weaponRestricted.iw9_sh_mbravo = 1						// bryson 800
+commonOption.weaponRestricted.iw9_sh_charlie725 = 1					// lockwood 300
+
+//Snipers
+commonOption.weaponRestricted.iw9_sn_mromeo = 1                     //MCPR-300
+commonOption.weaponRestricted.iw9_sn_limax = 1                      //Signal 50
+commonOption.weaponRestricted.iw9_sn_alpha50 = 1                    //Victus XMR
+commonOption.weaponRestricted.iw9_sn_india = 1                      //FJX Imperium
+commonOption.weaponRestricted.iw9_sn_walpha = 1                     //Carrack .300
+commonOption.weaponRestricted.iw9_dm_la700 = 1                      //LA-B 330
+commonOption.weaponRestricted.iw9_dm_xmike2010 = 1                  //SP-X 80
+
+//Melee
+commonOption.weaponRestricted.iw9_me_riotshield = 1                 //Riot Shield
+commonOption.weaponRestricted.iw9_me_sword01 = 1                    //Dual Kodachis
+commonOption.weaponRestricted.iw9_me_tonfa = 1                      //Tonfa
+commonOption.weaponRestricted.iw9_me_kamas = 1                      //Dual Kamas
+commonOption.weaponRestricted.iw9_me_pickaxe = 1                    //Pickaxe
+commonOption.weaponRestricted.iw9_me_knife = 1                      //Combat Knife
+
+//Pistols
+commonOption.weaponRestricted.iw9_pi_golf18 = 1                     //X13 Auto
+commonOption.weaponRestricted.iw9_pi_decho = 1                      //.50 GS
+commonOption.weaponRestricted.iw9_pi_papa220 = 1                    //P890
+commonOption.weaponRestricted.iw9_pi_swhiskey = 1                   //Basilisk
+commonOption.weaponRestricted.iw9_pi_tango9 = 1                     //FTAC Siege
+commonOption.weaponRestricted.iw9_pi_dechoauto = 1                  //GS Magna
+commonOption.weaponRestricted.iw9_pi_mike2011 = 1                   //9 mm daemon 2011
+commonOption.weaponRestricted.iw9_pi_golf17 = 1                     //X12
+
+//Launchers
+commonOption.weaponRestricted.iw9_la_kgolf = 1						// Strela-P
+commonOption.weaponRestricted.iw9_la_rpapa7 = 1						// RPG
+commonOption.weaponRestricted.iw9_la_juliet = 1						// JOKR
+commonOption.weaponRestricted.iw9_la_gromeo = 1						// PILA

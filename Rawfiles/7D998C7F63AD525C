@@ -1,0 +1,107 @@
+           
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operators" 0 "t10_phl_maya_rogue"
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operators" 1 "t10_arg_pl_alejo_sable"
+
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorWatch" 0
+
+setCerberusZMLoadoutsPlayerData "customizationSetup" "radial" 0 210000
+setCerberusZMLoadoutsPlayerData "customizationSetup" "radial" 1 190217
+setCerberusZMLoadoutsPlayerData "customizationSetup" "radial" 2 190218
+setCerberusZMLoadoutsPlayerData "customizationSetup" "radial" 3 190219
+setCerberusZMLoadoutsPlayerData "customizationSetup" "radial" 4 190220
+setCerberusZMLoadoutsPlayerData "customizationSetup" "radial" 5 190221
+setCerberusZMLoadoutsPlayerData "customizationSetup" "radial" 6 190222
+setCerberusZMLoadoutsPlayerData "customizationSetup" "radial" 7 190223
+
+setCerberusZMLoadoutsPlayerData "customizationFavorites" "favoriteLoadoutIndex" 0
+
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "fender_western" "execution" 6
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "kilgore_eastern" "execution" 6
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "gunnar_western" "execution" 6
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "calisto_eastern" "execution" 6
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "chili_western" "execution" 6
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "stiletto_eastern" "execution" 6
+
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "fender_western" "intro" 0
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "kilgore_eastern" "intro" 1
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "gunnar_western" "intro" 2
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "calisto_eastern" "intro" 3
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "chili_western" "intro" 4
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "stiletto_eastern" "intro" 5
+
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "fender_western" "taunt" 0
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "kilgore_eastern" "taunt" 1
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "gunnar_western" "taunt" 2
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "calisto_eastern" "taunt" 3
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "chili_western" "taunt" 4
+setCerberusZMLoadoutsPlayerData "customizationSetup" "operatorCustomization" "stiletto_eastern" "taunt" 5
+
+setCerberusZMLoadoutsPlayerData  "customizationSetup" "operatorCustomization" "fender_western" "skin" #x4e385da335086d17
+setCerberusZMLoadoutsPlayerData  "customizationSetup" "operatorCustomization" "kilgore_eastern" "skin" #x44814d31091192d0e
+setCerberusZMLoadoutsPlayerData  "customizationSetup" "operatorCustomization" "gunnar_western" "skin" #x4ea42fa386691391
+setCerberusZMLoadoutsPlayerData  "customizationSetup" "operatorCustomization" "calisto_eastern" "skin" #x44b1e3303c085aca4
+setCerberusZMLoadoutsPlayerData  "customizationSetup" "operatorCustomization" "chili_western" "skin" #x44473081b9074c6f6
+setCerberusZMLoadoutsPlayerData  "customizationSetup" "operatorCustomization" "stiletto_eastern" "skin" #x4d8a7340369c325e
+
+                   
+setPrivateLoadoutsPlayerData "customizationSetup" "operators" 0 "t10_phl_maya_rogue"
+setPrivateLoadoutsPlayerData "customizationSetup" "operators" 1 "t10_arg_pl_alejo_sable"
+
+setPrivateLoadoutsPlayerData "customizationSetup" "operatorWatch" 0
+
+setPrivateLoadoutsPlayerData "customizationSetup" "radial" 0 210000
+setPrivateLoadoutsPlayerData "customizationSetup" "radial" 1 190217
+setPrivateLoadoutsPlayerData "customizationSetup" "radial" 2 190218
+setPrivateLoadoutsPlayerData "customizationSetup" "radial" 3 190219
+setPrivateLoadoutsPlayerData "customizationSetup" "radial" 4 190220
+setPrivateLoadoutsPlayerData "customizationSetup" "radial" 5 190221
+setPrivateLoadoutsPlayerData "customizationSetup" "radial" 6 190222
+setPrivateLoadoutsPlayerData "customizationSetup" "radial" 7 190223
+
+setPrivateLoadoutsPlayerData "customizationFavorites" "favoriteLoadoutIndex" 0
+
+setPrivateLoadoutsPlayerData "customizationSetup" "operatorCustomization" "fender_western" "execution" 6
+setPrivateLoadoutsPlayerData "customizationSetup" "operatorCustomization" "kilgore_eastern" "execution" 6
+
+setPrivateLoadoutsPlayerData "customizationSetup" "operatorCustomization" "fender_western" "intro" 31
+setPrivateLoadoutsPlayerData "customizationSetup" "operatorCustomization" "kilgore_eastern" "intro" 32
+
+setPrivateLoadoutsPlayerData "customizationSetup" "operatorCustomization" "fender_western" "taunt" 0
+setPrivateLoadoutsPlayerData "customizationSetup" "operatorCustomization" "kilgore_eastern" "taunt" 0
+
+setPrivateLoadoutsPlayerData "customizationSetup" "operatorCustomization" "fender_western" "skin" #x4e385da335086d17
+setPrivateLoadoutsPlayerData "customizationSetup" "operatorCustomization" "kilgore_eastern" "skin" #x44814d31091192d0e
+
+           
+                                                                 
+setCerberusZMPlayerData "dmzInventory" 0 "lootID" 1046
+setCerberusZMPlayerData "dmzInventory" 0 "quantity" 5
+setCerberusZMPlayerData "dmzInventory" 1 "lootID" 1036
+setCerberusZMPlayerData "dmzInventory" 1 "quantity" 5
+setCerberusZMPlayerData "dmzInventory" 2 "lootID" 1094
+setCerberusZMPlayerData "dmzInventory" 2 "quantity" 3
+setCerberusZMPlayerData "dmzInventory" 3 "lootID" 1040
+setCerberusZMPlayerData "dmzInventory" 3 "quantity" 5
+setCerberusZMPlayerData "dmzInventory" 4 "lootID" 1051
+setCerberusZMPlayerData "dmzInventory" 4 "quantity" 2
+setCerberusZMPlayerData "dmzInventory" 5 "lootID" 0
+setCerberusZMPlayerData "dmzInventory" 5 "quantity" 99
+setCerberusZMPlayerData "backpackSize" 8
+setCerberusZMPlayerData "brBackpackSize" 8
+setCerberusZMPlayerData "dmzBackpackSize" 5
+setCerberusZMPlayerData "dmzPlateCarrierLevel" 1
+
+setCerberusZMPlayerData "dmzBankedCash" 100
+setCerberusZMPlayerData "dmzPocketCash" 0
+
+                   
+setCerberusZMPlayerData "squadMembers" "loadouts" 0 "inUse" 1
+setCerberusZMPlayerData "squadMembers" "loadouts" 0 "weaponSetups" 0 "weapon" "iw9_ar_kilo53"
+setCerberusZMPlayerData "squadMembers" "loadouts" 0 "weaponSetups" 0 "lootItemID" 1080
+setCerberusZMPlayerData "squadMembers" "loadouts" 0 "weaponSetups" 0 "variantID" 1
+setCerberusZMPlayerData "squadMembers" "loadouts" 0 "weaponSetups" 1 "weapon" "iw9_pi_papa220"
+setCerberusZMPlayerData "squadMembers" "loadouts" 0 "weaponSetups" 1 "lootItemID" 1104
+setCerberusZMPlayerData "squadMembers" "loadouts" 0 "weaponSetups" 1 "variantID" 1
+setCerberusZMPlayerData "squadMembers" "loadouts" 0 "equipmentSetups" 0 "equipment" "equip_frag"
+setCerberusZMPlayerData "squadMembers" "loadouts" 0 "equipmentSetups" 1 "equipment" "equip_smoke"
+setCerberusZMPlayerData "squadMembers" "loadouts" 0 "fieldUpgrades" 0 "super_ammo_drop"

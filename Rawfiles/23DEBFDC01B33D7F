@@ -1,0 +1,267 @@
+
+                               
+setStorageFile "cerberus_wz_loadouts" "squadMembers" "defaultSet" 1
+setStorageFile "cerberus_wz_loadouts" "squadMembers" "inUse" 1
+
+                                          
+                                                                    
+setStorageFile "cerberus_wz_loadouts" "loadoutSettings" "lastSelectedLoadoutIndex" 100
+
+                         
+
+                 
+setStorageFile_loc "cerberus_wz_loadouts" "loadouts" 0 "name" "LUA_MENU_MP/LOADOUT_1"
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "inUse" 1
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "weaponLootID" 17748
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "equipmentSetups" 0 "equipmentLootID" 30578
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "equipmentSetups" 1 "equipmentLootID" 30583
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "perkLootIDs" 0 80971
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "perkLootIDs" 1 30605
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "perkLootIDs" 2 30633
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "perkBonusLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30689
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 0 "wildcardLootID" 0
+
+                  
+setStorageFile_loc "cerberus_wz_loadouts" "loadouts" 1 "name" "LUA_MENU_MP/LOADOUT_2"
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "inUse" 1
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "weaponLootID" 36416
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "equipmentSetups" 0 "equipmentLootID" 30578
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "equipmentSetups" 1 "equipmentLootID" 30583
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "perkLootIDs" 0 80971
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "perkLootIDs" 1 30605
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "perkLootIDs" 2 30633
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "perkBonusLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30689
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 1 "wildcardLootID" 0
+
+
+                      
+setStorageFile_loc "cerberus_wz_loadouts" "loadouts" 2 "name" "LUA_MENU_MP/LOADOUT_3"
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "inUse" 1
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "weaponLootID" 17744
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "equipmentSetups" 0 "equipmentLootID" 30578
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "equipmentSetups" 1 "equipmentLootID" 30583
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "perkLootIDs" 0 80971
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "perkLootIDs" 1 30605
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "perkLootIDs" 2 30633
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "perkBonusLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30689
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 2 "wildcardLootID" 0
+
+
+                  
+setStorageFile_loc "cerberus_wz_loadouts" "loadouts" 3 "name" "LUA_MENU_MP/LOADOUT_4"
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "inUse" 1
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "weaponLootID" 17745
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "equipmentSetups" 0 "equipmentLootID" 30578
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "equipmentSetups" 1 "equipmentLootID" 30583
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "perkLootIDs" 0 80971
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "perkLootIDs" 1 30605
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "perkLootIDs" 2 30633
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "perkBonusLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30689
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 3 "wildcardLootID" 0
+
+
+                     
+setStorageFile_loc "cerberus_wz_loadouts" "loadouts" 4 "name" "LUA_MENU_MP/LOADOUT_5"
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "inUse" 1
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "weaponLootID" 37767
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "weaponLootID" 17761
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "equipmentSetups" 0 "equipmentLootID" 30578
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "equipmentSetups" 1 "equipmentLootID" 30583
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "perkLootIDs" 0 80971
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "perkLootIDs" 1 30605
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "perkLootIDs" 2 30633
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "perkBonusLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30689
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 4 "wildcardLootID" 0
+
+                       
+setStorageFile "cerberus_wz_loadouts" "loadouts" 5 "inUse" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 6 "inUse" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 7 "inUse" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 8 "inUse" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 9 "inUse" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 10 "inUse" 0
+setStorageFile "cerberus_wz_loadouts" "loadouts" 11 "inUse" 0

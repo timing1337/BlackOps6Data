@@ -1,0 +1,395 @@
+                                          
+
+                               
+setStorageFile "jupiter_public_loadouts" "squadMembers" "defaultSet" 1
+setStorageFile "jupiter_public_loadouts" "squadMembers" "inUse" 1
+
+                             
+setStorageFile "jupiter_public_loadouts" "squadMembers" "killstreakSetups" 0 "killstreak" "radar_ping"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "killstreakSetups" 1 "killstreak" "uav"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "killstreakSetups" 2 "killstreak" "hellstorm_missile"
+
+                     
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetype" "archetype_assault"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePerk" "specialty_null"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypeSuper" "super_ammo_drop"
+
+                         
+setStorageFile "jupiter_public_loadouts" "squadMembers" "gesture" "ui_gesture_thumbs_up"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "taunt" "iw7_taunt_rare_6"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "taunts" 0 "iw7_taunt_rare_6"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "taunts" 1 "iw7_taunt_rare_6"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "taunts" 2 "iw7_taunt_rare_6"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "taunts" 3 "iw7_taunt_rare_6"
+
+                 
+setStorageFile "jupiter_public_loadouts" "squadMembers" "cpLoadoutSel" 0
+
+                            
+setStorageFile "jupiter_public_loadouts" "squadMembers" "cpFieldUpgrade" "role_tank"
+
+                    
+setStorageFile "jupiter_public_loadouts" "squadMembers" "munitionSetups" 0 "munition" "empty1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "munitionSetups" 1 "munition" "empty2"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "munitionSetups" 2 "munition" "empty3"
+
+setStorageFile "jupiter_public_loadouts" "squadMembers" "munitionWaveModeSetups" 0 "munition" "empty1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "munitionWaveModeSetups" 1 "munition" "empty2"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "munitionWaveModeSetups" 2 "munition" "empty3"
+                         
+
+                 
+setStorageFile_loc "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "name" "LUA_MENU_MP/LOADOUT_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "inUse" 1
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "overkill" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "weapon" "iw9_ar_mike4"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 0 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 1 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "weapon" "iw9_pi_golf17"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "weaponSetups" 2 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "loadoutPerks" 0 "specialty_scavenger_ammo_and_equipment"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "loadoutPerks" 1 "specialty_gungho"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "loadoutPerks" 2 "specialty_hustle"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 0 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+
+
+                  
+setStorageFile_loc "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "name" "LUA_MENU_MP/LOADOUT_2"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "inUse" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "overkill" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "weapon" "iw9_sm_mpapa5"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 0 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 1 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "weapon" "iw9_pi_golf17"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "weaponSetups" 2 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "loadoutPerks" 0 "specialty_scavenger_ammo_and_equipment"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "loadoutPerks" 1 "specialty_gungho"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "loadoutPerks" 2 "specialty_hustle"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 1 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+
+
+                  
+setStorageFile_loc "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "name" "LUA_MENU_MP/LOADOUT_3"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "inUse" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "overkill" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "weapon" "iw9_lm_foxtrot"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 0 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 1 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "weapon" "iw9_pi_golf17"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "weaponSetups" 2 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "loadoutPerks" 0 "specialty_scavenger_ammo_and_equipment"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "loadoutPerks" 1 "specialty_gungho"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "loadoutPerks" 2 "specialty_hustle"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 2 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+
+
+                      
+setStorageFile_loc "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "name" "LUA_MENU_MP/LOADOUT_4"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "inUse" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "overkill" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "weapon" "iw9_dm_pgolf1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 0 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 1 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "weapon" "iw9_pi_golf17"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "weaponSetups" 2 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "loadoutPerks" 0 "specialty_scavenger_ammo_and_equipment"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "loadoutPerks" 1 "specialty_gungho"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "loadoutPerks" 2 "specialty_hustle"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 3 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+
+
+                     
+setStorageFile_loc "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "name" "LUA_MENU_MP/LOADOUT_5"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "inUse" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "overkill" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "weapon" "iw9_sn_mromeo"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 0 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "weapon" "iw9_pi_golf17"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 1 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "weapon" "iw9_pi_golf17"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 0 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 1 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 2 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "attachmentSetup" 3 "attachment" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "sticker" 0 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "sticker" 1 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "sticker" 2 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "sticker" 3 "sticker_none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "reticle" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "weaponSetups" 2 "variantID" 0
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "equipmentSetups" 0 "equipment" "equip_frag"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "equipmentSetups" 1 "equipment" "equip_flash"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "loadoutPerks" 0 "specialty_scavenger_ammo_and_equipment"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "loadoutPerks" 1 "specialty_gungho"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "loadoutPerks" 2 "specialty_hustle"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "fieldUpgradeSetups" 0 "fieldUpgrade" "super_ammo_drop"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "loadouts" 4 "fieldUpgradeSetups" 1 "fieldUpgrade" "none"
+
+
+                                       
+
+                                                                                                          
+
+          
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "archetype" "archetype_assault"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "archetypePerk" "specialty_boom"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "archetypeSuper" "super_blinding_turret"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "head" "head_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "body" "body_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "taunt" "iw7_taunt_rare_6"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "taunts" 0 "iw7_taunt_rare_6"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "taunts" 1 "iw7_taunt_rare_6"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "taunts" 2 "iw7_taunt_rare_6"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "taunts" 3 "iw7_taunt_rare_6"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 0 "gesture" "ui_gesture_thumbs_up"
+
+        
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "archetype" "archetype_assault"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "archetypePerk" "specialty_regenfaster"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "archetypeSuper" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "head" "head_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "body" "body_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "taunt" "iw7_taunt_rare_8"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "taunts" 0 "iw7_taunt_rare_8"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "taunts" 1 "iw7_taunt_rare_8"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "taunts" 2 "iw7_taunt_rare_8"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "taunts" 3 "iw7_taunt_rare_8"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 1 "gesture" "ui_gesture_kill"
+
+           
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "archetype" "archetype_assault"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "archetypePerk" "specialty_rush"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "archetypeSuper" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "head" "head_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "body" "body_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "taunt" "iw7_taunt_rare_10"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "taunts" 0 "iw7_taunt_rare_10"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "taunts" 1 "iw7_taunt_rare_10"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "taunts" 2 "iw7_taunt_rare_10"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "taunts" 3 "iw7_taunt_rare_10"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 2 "gesture" "ui_gesture_kill"
+
+      
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "archetype" "archetype_assault"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "archetypePerk" "specialty_superpack"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "archetypeSuper" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "head" "head_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "body" "body_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "taunt" "iw7_taunt_rare_3"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "taunts" 0 "iw7_taunt_rare_3"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "taunts" 1 "iw7_taunt_rare_3"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "taunts" 2 "iw7_taunt_rare_3"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "taunts" 3 "iw7_taunt_rare_3"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 3 "gesture" "ui_gesture_kill"
+
+           
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "archetype" "archetype_assault"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "archetypePerk" "specialty_equipment_ping"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "archetypeSuper" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "head" "head_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "body" "body_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "taunt" "iw7_taunt_rare_14"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "taunts" 0 "iw7_taunt_rare_14"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "taunts" 1 "iw7_taunt_rare_14"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "taunts" 2 "iw7_taunt_rare_14"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "taunts" 3 "iw7_taunt_rare_14"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 4 "gesture" "ui_gesture_kill"
+
+       
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "archetype" "archetype_assault"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "archetypePerk" "specialty_mark_targets"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "archetypeSuper" "none"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "head" "head_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "body" "body_1"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "taunt" "iw7_taunt_rare_7"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "taunts" 0 "iw7_taunt_rare_7"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "taunts" 1 "iw7_taunt_rare_7"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "taunts" 2 "iw7_taunt_rare_7"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "taunts" 3 "iw7_taunt_rare_7"
+setStorageFile "jupiter_public_loadouts" "squadMembers" "archetypePreferences" 5 "gesture" "ui_gesture_kill"
+
+
+           
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operators" 0 "milsim_western_1"
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operators" 1 "milsim_eastern_1"
+
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "radial" 0 210000
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "radial" 1 190217
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "radial" 2 190218
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "radial" 3 190219
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "radial" 4 190220
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "radial" 5 190221
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "radial" 6 190222
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "radial" 7 190223
+
+setStorageFile "jupiter_public_loadouts" "customizationFavorites" "favoriteLoadoutIndex" 0
+
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "fender_western" "execution" 6
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "execution" 6
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "execution" 6
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "execution" 6
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "chili_western" "execution" 6
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "execution" 6
+
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "fender_western" "intro" 0
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "intro" 1
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "intro" 2
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "intro" 3
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "chili_western" "intro" 4
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "intro" 5
+
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "fender_western" "taunt" 0
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "taunt" 1
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "taunt" 2
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "taunt" 3
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "chili_western" "taunt" 4
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "taunt" 5
+
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "fender_western" "skin" #x4e385da335086d17
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "kilgore_eastern" "skin" #x44814d31091192d0e
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "gunnar_western" "skin" #x4ea42fa386691391
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "calisto_eastern" "skin" #x44b1e3303c085aca4
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "chili_western" "skin" #x44473081b9074c6f6
+setStorageFile "jupiter_public_loadouts" "customizationSetup" "operatorCustomization" "stiletto_eastern" "skin" #x4d8a7340369c325e

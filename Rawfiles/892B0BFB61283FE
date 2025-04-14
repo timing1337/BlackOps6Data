@@ -1,0 +1,10 @@
+exec default_mp.cfg
+
+set #x3aff7f040fa04b28e br_trios
+set #x3e65e9a96eb2ff62b br_trios
+
+set #x3ef237da69bb64ef6	mp_wz2_sierra
+
+set #x360feb5eea5e607fe 48
+
+exec dev_proto_br_overrides.cfg

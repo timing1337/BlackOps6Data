@@ -1,0 +1,8 @@
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,
+include,omnvars/mp/omnvars_mgl.csv,,,,,,
+include,omnvars/mp/omnvars_team_status_lives.csv,,,,,,
+include,omnvars/mp/omnvars_team_status_zones.csv,,,,,,
+ui_num_dom_flags,1,,g,i,3,0,5
+ui_domflag_a,1,,g,i,0,0,255
+ui_domflag_b,1,,g,i,0,0,255
+ui_domflag_c,1,,g,i,0,0,255

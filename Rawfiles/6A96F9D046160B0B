@@ -1,0 +1,20 @@
+                         
+exec default_mp_t10.cfg
+
+exec default_zm_modesettings_t10.cfg
+
+set #x3d60163b9839fa08 0
+
+set #x3aff7f040fa04b28e zm_rb
+set #x3e65e9a96eb2ff62b			zm_rb
+set #x3ef237da69bb64ef6	        zm_t10_garnet
+
+set #x3e664609932770fb9 -1
+
+set #x3a4d532f42d919827 1 
+set #x395e3cdfa6f3b12a1     1
+set #x3fde1113ce9981d91 1
+
+set #x34569f157ef7f2410 0.9 0.9 0.9 0.5                                
+
+set #x3a23243f44d9a4ae 1                                                          

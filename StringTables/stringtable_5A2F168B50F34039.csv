@@ -1,0 +1,222 @@
+40478,cer_sb_mp_bootcamp_1,0,0,10,60616,1000,Career,1,,,0,,,MP|LP_MP|HC,,0
+40479,cer_sb_mp_bootcamp_2,0,0,10,60617,1000,Career,2,,,0,,,MP|LP_MP|HC,,0
+40480,cer_sb_mp_bootcamp_3,0,0,25,60618,1000,Career,3,,,0,,,MP|LP_MP|HC,,0
+40481,cer_sb_mp_bootcamp_4,0,0,25,60619,1000,Career,4,,,0,,,MP|LP_MP|HC,,0
+40482,cer_sb_mp_bootcamp_5,0,0,15,60620,1000,Career,5,,,0,,,MP|LP_MP|HC,,0
+40483,cer_sb_mp_bootcamp_6,0,0,10,60621,1000,Career,6,,,0,,,MP|LP_MP|HC,,0
+40484,cer_sb_mp_bootcamp_mastery,0,0,6,64528,5000,Career,1,40478|40479|40480|40481|40482|40483,,0,,,,,0
+40488,cer_sb_mp_elite_operator_1,0,0,1|10|25,||64531,1000|2000|3000,Career,1,,,0,,,MP|LP_MP|HC,,0
+40489,cer_sb_mp_elite_operator_2,0,0,10|25|50,||64532,1000|2000|3000,Career,2,,,0,,,MP|LP_MP|HC,,0
+40490,cer_sb_mp_elite_operator_3,0,0,1|5|10,||64533,1000|2000|3000,Career,3,,,0,,,MP|LP_MP|HC,,0
+40491,cer_sb_mp_elite_operator_4,0,0,5,64534,3000,Career,4,,,0,,,MP|LP_MP|HC,,0
+40492,cer_sb_mp_elite_operator_5,0,0,1,64535,3000,Career,5,,,0,,,MP|LP_MP|HC,,0
+40493,cer_sb_mp_elite_operator_6,0,0,1|5|10,||64536,1000|2000|3000,Career,6,,,0,,,MP|LP_MP|HC,,0
+40494,cer_sb_mp_elite_operator_mastery,0,0,6,64537,10000,Career,3,40488|40489|40490|40491|40492|40493,,0,,,,,0
+40495,cer_sb_mp_grizzled_veteran_1,0,0,500|1000|2500|5000|10000,||||64538,1000|2000|3000|4000|5000,Career,1,,,0,,,MP|LP_MP|HC,,0
+40496,cer_sb_mp_grizzled_veteran_2,0,0,50|100|250|500|1000,||||64539,1000|2000|3000|4000|5000,Career,2,,,0,,,MP|LP_MP|HC,,0
+40497,cer_sb_mp_grizzled_veteran_3,0,0,10|25|50|125|250,||||64540,1000|2000|3000|4000|5000,Career,3,,,0,,,MP|LP_MP|HC,,0
+40498,cer_sb_mp_grizzled_veteran_4,0,0,25|50|125|250|500,||||64541,1000|2000|3000|4000|5000,Career,4,,,0,,,MP|LP_MP|HC,,0
+40499,cer_sb_mp_grizzled_veteran_5,0,0,50000|100000|250000|500000|1000000,||||64542,1000|2000|3000|4000|5000,Career,5,,,0,,,MP|LP_MP|HC,,0
+40500,cer_sb_mp_grizzled_veteran_6,0,0,25|50|125|250|500,||||64543,1000|2000|3000|4000|5000,Career,6,,,0,,,MP|LP_MP|HC,,0
+40501,cer_sb_mp_grizzled_veteran_mastery,0,0,6,64544,10000,Career,5,40495|40496|40497|40498|40499|40500,,0,,,,,0
+48115,cer_sb_mp_career_mastery,0,0,3,64545,10000,Career Completion,1,40484|40494|40501,,0,,,,,0
+40502,cer_sb_mp_killer_1,0,0,10|25|50,||64546,1000|2000|3000,Battle Hardened,1,,,0,,,MP|LP_MP|HC,,0
+40503,cer_sb_mp_killer_2,0,0,5|10|25,||64547,1000|2000|3000,Battle Hardened,2,,,0,,,MP|LP_MP|HC,,0
+40504,cer_sb_mp_killer_3,0,0,1,64548,3000,Battle Hardened,3,,,0,,,MP|LP_MP|HC,,0
+40505,cer_sb_mp_killer_4,0,0,10|25|50,||64549,1000|2000|3000,Battle Hardened,4,,,0,,,MP|LP_MP|HC,,0
+40506,cer_sb_mp_killer_5,0,0,1|5|10,||64550,1000|2000|3000,Battle Hardened,5,,,0,,,MP|LP_MP|HC,,0
+40507,cer_sb_mp_killer_6,0,0,1,64551,3000,Battle Hardened,6,,,0,,,MP|LP_MP|HC,,0
+40508,cer_sb_mp_killer_mastery,0,0,6,64552,10000,Battle Hardened,6,40502|40503|40504|40505|40506|40507,,0,,,,,0
+40516,cer_sb_mp_going_ham_1,0,0,1,64553,3000,Battle Hardened,1,,,0,,,MP|LP_MP|HC,,0
+40517,cer_sb_mp_going_ham_2,0,0,5,64554,3000,Battle Hardened,2,,,0,,,MP|LP_MP|HC,,0
+40518,cer_sb_mp_going_ham_3,0,0,10,64555,3000,Battle Hardened,3,,,0,,,MP|LP_MP|HC,,0
+40519,cer_sb_mp_going_ham_4,0,0,5,64556,3000,Battle Hardened,4,,,0,,,MP|LP_MP|HC,,0
+40520,cer_sb_mp_going_ham_5,0,0,20,64557,3000,Battle Hardened,5,,,0,,,MP|LP_MP|HC,,0
+40521,cer_sb_mp_going_ham_6,0,0,5,64558,3000,Battle Hardened,6,,,0,,,MP|LP_MP|HC,,0
+40522,cer_sb_mp_going_ham_mastery,0,0,6,64559,10000,Battle Hardened,8,40516|40517|40518|40519|40520|40521,,0,,,,,0
+40509,cer_sb_mp_humiliation_1,0,0,1|5|10,||64560,1000|2000|3000,Battle Hardened,1,,,0,,,MP|LP_MP|HC,,0
+40510,cer_sb_mp_humiliation_2,0,0,10|25|50,||64561,1000|2000|3000,Battle Hardened,2,,,0,,,MP|LP_MP|HC,,0
+40511,cer_sb_mp_humiliation_3,0,0,5|10|25,||64562,1000|2000|3000,Battle Hardened,3,,,0,,,MP|LP_MP|HC,,0
+40512,cer_sb_mp_humiliation_4,0,0,1|5|10,||64563,1000|2000|3000,Battle Hardened,4,,,0,,,MP|LP_MP|HC,,0
+40513,cer_sb_mp_humiliation_5,0,0,5|10|25,||64564,1000|2000|3000,Battle Hardened,5,,,0,,,MP|LP_MP|HC,,0
+40514,cer_sb_mp_humiliation_6,0,0,25|50|100,||64565,1000|2000|3000,Battle Hardened,6,,,0,,,MP|LP_MP|HC,,0
+40515,cer_sb_mp_humiliation_mastery,0,0,6,64566,10000,Battle Hardened,7,40509|40510|40511|40512|40513|40514,,0,,,,,0
+48116,cer_sb_mp_battle_hardened_mastery,0,0,3,64567,10000,Battle Hardened Completion,2,40508|40522|40515,,0,,,,,0
+48117,cer_sb_mp_prestige_mastery,0,0,11,69057,20000,Prestige Completion,3,42566|42665|42672|42679|42686|42693|42700|42707|42714|42721|42728,,0,,,,,0
+47961,cer_sb_mp_core_mastery,0,0,17,64745,25000,Total Completion,2,40484|40494|40501|40508|40522|40515|42566|42665|42672|42679|42686|42693|42700|42707|42714|42721|42728,,0,,,,,0
+41027,cer_sb_mp_darkops_1,0,0,1,64568,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42536,cer_sb_mp_darkops_2,0,0,1,64569,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42538,cer_sb_mp_darkops_3,0,0,1,64570,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42539,cer_sb_mp_darkops_4,0,0,1,64571,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42540,cer_sb_mp_darkops_5,0,0,1,64572,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42541,cer_sb_mp_darkops_6,0,0,1,64573,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42542,cer_sb_mp_darkops_7,0,0,1,64574,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42543,cer_sb_mp_darkops_8,0,0,1,64578,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42544,cer_sb_mp_darkops_9,0,0,25,64579,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42545,cer_sb_mp_darkops_10,0,0,1,64575,5000,Dark Ops,,,,0,,,MP|LP_MP,,0
+42546,cer_sb_mp_darkops_11,0,0,1,64576,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42547,cer_sb_mp_darkops_12,0,0,1,64577,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42548,cer_sb_mp_darkops_13,0,0,1,64580,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42549,cer_sb_mp_darkops_14,0,0,10,64581,5000,Dark Ops,,,,0,,,HC,,0
+42550,cer_sb_mp_darkops_15,0,0,4,64582,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42551,cer_sb_mp_darkops_16,0,0,100,64583,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42552,cer_sb_mp_darkops_17,0,0,100000,64584,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42553,cer_sb_mp_darkops_18,0,0,1,64585,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42554,cer_sb_mp_darkops_19,0,0,10,64586,5000,Dark Ops,,,,0,,,HC,,0
+42555,cer_sb_mp_darkops_20,0,0,1,64587,5000,Dark Ops,,47615,,0,,,MP|LP_MP|HC,,0
+48075,cer_sb_mp_darkops_21,0,0,1,72229,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+48076,cer_sb_mp_darkops_22,0,0,1,64808,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+48077,cer_sb_mp_darkops_23,0,0,1,72230,5000,Dark Ops,,,,0,,,MP|LP_MP|HC,,0
+42556,cer_sb_mp_darkops_mastery,0,0,15,64588,25000,Dark Ops,1,41027|42536|42538|42539|42540|42541|42542|42543|42544|42545|42546|42547|42548|42549|42550|42551|42552|42553|42554|42555|48075|48076|48077,,0,,,,,0
+47615,cer_sb_mp_darkops_hidden_camo_tracker,0,0,33,,,,,38307|38301|40598|43927|43979|45377|45326|45275|45224|45173|43558|45122|45071|45020|44969|44918|44867|44816|44765|44714|44663|44612|44561|44510|44459|44408|44357|44306|44255|44204|44153|44102|44051|49789|50265|49840|50206|49736|49891|50081|50530|50377|5043,,0,,,,,0
+43265,cer_sb_zm_freshmeat_1,0,0,1,64746,1000,Career,1,,,0,,,ZM,,0
+43266,cer_sb_zm_freshmeat_2,0,0,50,64747,1000,Career,2,,,0,,,ZM,,0
+43267,cer_sb_zm_freshmeat_3,0,0,50,64748,1000,Career,3,,,0,,,ZM,,0
+43268,cer_sb_zm_freshmeat_4,0,0,50,64749,1000,Career,4,,,0,,,ZM,,0
+43269,cer_sb_zm_freshmeat_5,0,0,50,64750,1000,Career,5,,,0,,,ZM,,0
+43270,cer_sb_zm_freshmeat_6,0,0,1,64751,1000,Career,6,,,0,,,ZM,,0
+43300,cer_sb_zm_freshmeat_mastery,0,0,6,64752,10000,Career,1,43265|43266|43267|43268|43269|43270,,0,,,,,0
+43301,cer_sb_zm_trophyhunter_1,0,0,5|10|15,||64753,1000|2000|3000,Career,1,,,0,,,ZM,,0
+43302,cer_sb_zm_trophyhunter_2,0,0,5|10|20,||64754,1000|2000|3000,Career,2,,,0,,,ZM,,0
+43303,cer_sb_zm_trophyhunter_3,0,0,1,64755,3000,Career,3,,,0,,,ZM,,0
+43304,cer_sb_zm_trophyhunter_4,0,0,25|50|100,||64756,1000|2000|3000,Career,4,,,0,,,ZM,,0
+43305,cer_sb_zm_trophyhunter_5,0,0,1,64757,3000,Career,5,,,0,,,ZM,,0
+43306,cer_sb_zm_trophyhunter_6,0,0,1,64758,3000,Career,6,,,0,,,ZM,,0
+43307,cer_sb_zm_trophyhunter_mastery,0,0,6,64759,10000,Career,2,43301|43302|43303|43304|43305|43306,,0,,,,,0
+43308,cer_sb_zm_quarantined_1,0,0,500|1000|2500|5000|10000,||||64764,1000|2000|3000|4000|5000,Career,1,,,0,,,ZM,,0
+43309,cer_sb_zm_quarantined_2,0,0,500|1000|2500|7500|15000,||||64763,1000|2000|3000|4000|5000,Career,2,,,0,,,ZM,,0
+43310,cer_sb_zm_quarantined_3,0,0,100|200|300|400|500,||||64765,1000|2000|3000|4000|5000,Career,3,,,0,,,ZM,,0
+43311,cer_sb_zm_quarantined_4,0,0,100|250|500|1000|2500,||||64761,1000|2000|3000|4000|5000,Career,4,,,0,,,ZM,,0
+43312,cer_sb_zm_quarantined_5,0,0,500|1000|2500|10000|50000,||||64762,1000|2000|3000|4000|5000,Career,5,,,0,,,ZM,,0
+43313,cer_sb_zm_quarantined_6,0,0,500|1000|2500|5000|10000,||||64760,1000|2000|3000|4000|5000,Career,6,,,0,,,ZM,,0
+43314,cer_sb_zm_quarantined_mastery,0,0,6,64766,10000,Career,3,43308|43309|43310|43311|43312|43313,,0,,,,,0
+48279,cer_sb_zm_career_mastery,0,0,3,64767,10000,Career Completion,1,43300|43307|43314,,0,,,,,0
+43517,cer_sb_zm_bestiary_1,0,0,10,64768,3000,Battle Hardened,1,,,0,,,ZM,,0
+43518,cer_sb_zm_bestiary_2,0,0,10,64769,3000,Battle Hardened,2,,,0,,,ZM,,0
+43519,cer_sb_zm_bestiary_3,0,0,5,64770,3000,Battle Hardened,3,,,0,,,ZM,,0
+43520,cer_sb_zm_bestiary_4,0,0,25,64771,3000,Battle Hardened,4,,,0,,,ZM,,0
+43521,cer_sb_zm_bestiary_5,0,0,3,64772,3000,Battle Hardened,5,,,0,,,ZM,,0
+43522,cer_sb_zm_bestiary_6,0,0,3,64773,3000,Battle Hardened,6,,,0,,,ZM,,0
+43523,cer_sb_zm_bestiary_mastery,0,0,6,64774,10000,Battle Hardened,4,43517|43518|43519|43520|43521|43522,,0,,,,,0
+43526,cer_sb_zm_kittedout_1,0,0,10|25|50,||64775,1000|2000|3000,Battle Hardened,1,,,0,,,ZM,,0
+43527,cer_sb_zm_kittedout_2,0,0,1,64776,3000,Battle Hardened,2,,,0,,,ZM,,0
+43528,cer_sb_zm_kittedout_3,0,0,25,64777,3000,Battle Hardened,3,,,0,,,ZM,,0
+43529,cer_sb_zm_kittedout_4,0,0,1,64778,3000,Battle Hardened,4,,,0,,,ZM,,0
+43530,cer_sb_zm_kittedout_5,0,0,1,64779,3000,Battle Hardened,5,,,0,,,ZM,,0
+43531,cer_sb_zm_kittedout_6,0,0,25|50|100,||64780,1000|2000|3000,Battle Hardened,6,,,0,,,ZM,,0
+43524,cer_sb_zm_kittedout_mastery,0,0,6,64781,10000,Battle Hardened,5,43526|43527|43528|43529|43530|43531,,0,,,,,0
+43532,cer_sb_zm_aetherinvestigator_1,0,0,5|10|25,||64782,1000|2000|3000,Battle Hardened,1,,,0,,,ZM,,0
+43533,cer_sb_zm_aetherinvestigator_2,0,0,5|10|25,||64783,1000|2000|3000,Battle Hardened,2,,,0,,,ZM,,0
+43535,cer_sb_zm_aetherinvestigator_3,0,0,3,64784,3000,Battle Hardened,3,,,0,,,ZM,,0
+43536,cer_sb_zm_aetherinvestigator_4,0,0,3,64785,3000,Battle Hardened,4,,,0,,,ZM,,0
+43537,cer_sb_zm_aetherinvestigator_5,0,0,3,64786,3000,Battle Hardened,5,,,0,,,ZM,,0
+43538,cer_sb_zm_aetherinvestigator_6,0,0,3,64787,3000,Battle Hardened,6,,,0,,,ZM,,0
+43525,cer_sb_zm_aetherinvestigator_mastery,0,0,6,64788,10000,Battle Hardened,6,43532|43533|43535|43536|43537|43538,,0,,,,,0
+48280,cer_sb_zm_battle_hardened_mastery,0,0,3,64789,10000,Battle Hardened Completion,2,43523|43524|43525,,0,,,,,0
+48281,cer_sb_zm_prestige_mastery,0,0,11,82699,20000,Prestige Completion,3,45467|45565|45699|45700|45711|45769|46052|46053|46054|46055|46056,,0,,,,,0
+47963,cer_sb_zm_core_mastery,0,0,17,64887,25000,Total Completion,2,43300|43307|43314|43523|43524|43525|45467|45565|45699|45700|45711|45769|46052|46053|46054|46055|46056,,0,,,,,0
+47382,cer_sb_zm_darkops_1,0,0,1000000,64790,5000,Dark Ops,1,,,0,,,ZM,,0
+47383,cer_sb_zm_darkops_2,0,0,1,64791,5000,Dark Ops,2,,,0,,,ZM,,0
+47384,cer_sb_zm_darkops_3,0,0,1,64792,5000,Dark Ops,3,,,0,,,ZM,,0
+47385,cer_sb_zm_darkops_4,0,0,1,64793,5000,Dark Ops,4,,,0,,,ZM,,0
+47386,cer_sb_zm_darkops_5,0,0,1,64794,5000,Dark Ops,5,,,0,,,ZM,,0
+47387,cer_sb_zm_darkops_6,0,0,1,64795,5000,Dark Ops,6,,,0,,,ZM,,0
+47388,cer_sb_zm_darkops_7,0,0,1,64796,5000,Dark Ops,7,,,0,,,ZM,,0
+47389,cer_sb_zm_darkops_8,0,0,1,64797,5000,Dark Ops,8,,,0,,,ZM,,0
+47390,cer_sb_zm_darkops_9,0,0,1,64895,5000,Dark Ops,9,,,0,,,ZM,,0
+47392,cer_sb_zm_darkops_10,0,0,1,64798,5000,Dark Ops,10,,,0,,,ZM,,0
+47393,cer_sb_zm_darkops_11,0,0,1,64799,5000,Dark Ops,11,,,0,,,ZM,,0
+47394,cer_sb_zm_darkops_12,0,0,1,64800,5000,Dark Ops,12,,,0,,,ZM,,0
+47395,cer_sb_zm_darkops_13,0,0,1,64801,5000,Dark Ops,13,,,0,,,ZM,,0
+47396,cer_sb_zm_darkops_14,0,0,1,64802,5000,Dark Ops,14,,,0,,,ZM,,0
+47397,cer_sb_zm_darkops_15,0,0,1,64803,5000,Dark Ops,15,48070,,0,,,ZM,,0
+47398,cer_sb_zm_darkops_16,0,0,1,64804,5000,Dark Ops,16,,,0,,,ZM,,0
+47399,cer_sb_zm_darkops_17,0,0,1,64805,5000,Dark Ops,17,,,0,,,ZM,,0
+47400,cer_sb_zm_darkops_18,0,0,1,64806,5000,Dark Ops,18,,,0,,,ZM,,0
+47401,cer_sb_zm_darkops_19,0,0,1,64807,5000,Dark Ops,19,,,0,,,ZM,,0
+47381,cer_sb_zm_darkops_mastery,0,0,15,64809,25000,Dark Ops,1,47382|47383|47384|47385|47386|47387|47388|47389|47390|47392|47393|47394|47395|47396|47397|47398|47399|47400|47401,,0,,,,,0
+48070,cer_sb_zm_darkops_hidden_camo_tracker,0,0,33,,,,,38883|40290|40632|43961|44013|45411|45360|45309|45258|45207|43592|45156|45105|45054|45003|44952|44901|44850|44799|44748|44697|44646|44595|44544|44493|44442|44391|44340|44289|44238|44187|44136|44085|49823|50299|49874|50240|49770|49925|50115|50564|50411|5046,,0,,,,,0
+44020,cer_sb_ch_br_basic_training_1,0,0,5,64888,1000,Career,1,,,0,,,BR,,0
+44025,cer_sb_ch_br_basic_training_2,0,0,5,64889,1000,Career,2,,,0,,,BR,,0
+44026,cer_sb_ch_br_basic_training_3,0,0,10,64890,1000,Career,3,,,0,,,BR,,0
+44027,cer_sb_ch_br_basic_training_4,0,0,50,64891,1000,Career,4,,,0,,,BR,,0
+44029,cer_sb_ch_br_basic_training_5,0,0,20,64892,1000,Career,5,,,0,,,BR,,0
+44032,cer_sb_ch_br_basic_training_6,0,0,10,64893,1000,Career,6,,,0,,,BR,,0
+44021,cer_sb_ch_br_basic_training_mastery,0,0,6,64894,10000,Career,1,44020|44025|44026|44027|44029|44032,,0,,,,BR,0
+44036,cer_sb_ch_br_warzone_tactician_1,0,0,1|3|5,||64896,500|1000|2500,Career,1,,,0,,,BR,,0
+45415,cer_sb_ch_br_warzone_tactician_2,0,0,5|10|20,||64897,500|1000|2000,Career,2,,,0,,,BR,,0
+45418,cer_sb_ch_br_warzone_tactician_3,0,0,5|10|20,||64898,500|1000|2000,Career,3,,,0,,,BR,,0
+45417,cer_sb_ch_br_warzone_tactician_4,0,0,5|10|25,64899||,500|1000|2500,Career,4,,,0,,,BR,,0
+45419,cer_sb_ch_br_warzone_tactician_5,0,0,15,64900,2500,Career,5,,,0,,,BR,,0
+45420,cer_sb_ch_br_warzone_tactician_6,0,0,10,64901,2500,Career,6,,,0,,,BR,,0
+45414,cer_sb_ch_br_warzone_tactician_mastery,0,0,6,64902,10000,Career,3,44036|45415|45418|45417|45419|45420,,0,,,,BR,0
+45422,cer_sb_ch_br_seasoned_soldier_1,0,0,10|25|50|100|200,||||64903,500|1000|1500|2000|2500,Career,1,,,0,,,BR,,0
+45423,cer_sb_ch_br_seasoned_soldier_2,0,0,10|25|50|100|200,||||64904,500|1000|2000||,Career,2,,,0,,,BR,,0
+45424,cer_sb_ch_br_seasoned_soldier_3,0,0,10|25|50|100|200,||||64905,500|1000|1500|2000|2500,Career,3,,,0,,,BR,,0
+45425,cer_sb_ch_br_seasoned_soldier_4,0,0,50|100|200|500|1000,||||64906,500|1000||2000|,Career,4,,,0,,,BR,,0
+45426,cer_sb_ch_br_seasoned_soldier_5,0,0,25|50|100|250|500,||||64907,500|1000|1500|2000|2500,Career,5,,,0,,,BR,,0
+45427,cer_sb_ch_br_seasoned_soldier_6,0,0,50|100|200|500|1000,||||64908,500|1000|1500|2000|2500,Career,6,,,0,,,BR,,0
+45421,cer_sb_ch_br_seasoned_soldier_mastery,0,0,6,64909,10000,Career,5,45422|45423|45424|45425|45426|45427,,0,,,,BR,0
+48331,cer_sb_br_career_mastery,0,0,3,64910,10000,Career Completion,1,44021|45421|45414,,0,,,,BR,0
+45429,cer_sb_ch_br_weapon_specialist_1,0,0,25|50|100,||64911,500|1000|2500,Battle Hardened,1,,,0,,,BR,,0
+45430,cer_sb_ch_br_weapon_specialist_2,0,0,25|50|100,||64912,500|1000|2500,Battle Hardened,2,,,0,,,BR,,0
+45431,cer_sb_ch_br_weapon_specialist_3,0,0,20,64913,2500,Battle Hardened,3,,,0,,,BR,,0
+45432,cer_sb_ch_br_weapon_specialist_4,0,0,25|50|100,||64914,500|1000|2500,Battle Hardened,4,,,0,,,BR,,0
+45433,cer_sb_ch_br_weapon_specialist_5,0,0,25|50|100,64915||,500|1000|2500,Battle Hardened,5,,,0,,,BR,,0
+45434,cer_sb_ch_br_weapon_specialist_6,0,0,25,64916,2500,Battle Hardened,6,,,0,,,BR,,0
+45428,cer_sb_ch_br_weapon_specialist_mastery,0,0,6,64917,10000,Battle Hardened,6,45429|45430|45431|45432|45433|45434,,0,,,,BR,0
+45436,cer_sb_ch_br_popping_off_1,0,0,5|10|25,||64918,500|1000|2500,Battle Hardened,1,,,0,,,BR,,0
+45437,cer_sb_ch_br_popping_off_2,0,0,3|5|10,||64919,500|1000|2500,Battle Hardened,2,,,0,,,BR,,0
+45438,cer_sb_ch_br_popping_off_3,0,0,10,64920,2500,Battle Hardened,3,,,0,,,BR,,0
+45439,cer_sb_ch_br_popping_off_4,0,0,5,64921,2500,Battle Hardened,4,,,0,,,BR,,0
+45440,cer_sb_ch_br_popping_off_5,0,0,5,64923,2500,Battle Hardened,5,,,0,,,BR,,0
+45441,cer_sb_ch_br_popping_off_6,0,0,250,64922,2500,Battle Hardened,6,,,0,,,BR,,0
+45435,cer_sb_ch_br_popping_off_mastery,0,0,6,64924,10000,Battle Hardened,8,45436|45437|45438|45439|45440|45441,,0,,,,BR,0
+45443,cer_sb_ch_br_violent_tendencies_1,0,0,1|5|10,||64925,500|1000|2000,Battle Hardened,1,,,0,,,BR,,0
+45444,cer_sb_ch_br_violent_tendencies_2,0,0,5|10|15,||64926,500|1000|2000,Battle Hardened,2,,,0,,,BR,,0
+45445,cer_sb_ch_br_violent_tendencies_3,0,0,5|10|25,||64928,500|1000|2000,Battle Hardened,3,,,0,,,BR,,0
+45446,cer_sb_ch_br_violent_tendencies_4,0,0,5|10|25,||64929,500|1000|2000,Battle Hardened,4,,,0,,,BR,,0
+45447,cer_sb_ch_br_violent_tendencies_5,0,0,5|10|25,||64930,500|1000|2000,Battle Hardened,5,,,0,,,BR,,0
+45448,cer_sb_ch_br_violent_tendencies_6,0,0,5|10|25,||64927,500|1000|2000,Battle Hardened,6,,,0,,,BR,,0
+45442,cer_sb_ch_br_violent_tendencies_mastery,0,0,6,64931,2500,Battle Hardened,7,45443|45444|45445|45446|45447|45448,,0,,,,BR,0
+48333,cer_sb_br_battle_hardened_mastery,0,0,3,64932,10000,Battle Hardened Completion,2,45428|45435|45442,,0,,,,BR,0
+48335,cer_sb_br_prestige_mastery,0,0,11,68988,10000,Prestige Completion,3,45546|45547|45549|45563|45558|45554|45556|45552|45560|45562|47535,,0,,,,BR,0
+48096,cer_sb_br_darkops_1,0,0,1,64933,5000,Dark Ops,,,,0,,,BR,,0
+48100,cer_sb_br_darkops_2,0,0,1,64934,5000,Dark Ops,,,,0,,,BR,,0
+48101,cer_sb_br_darkops_3,0,0,1,64935,5000,Dark Ops,,,,0,,,BR,,0
+48102,cer_sb_br_darkops_4,0,0,1,64936,5000,Dark Ops,,,,0,,,BR,,0
+48103,cer_sb_br_darkops_5,0,0,1,64937,5000,Dark Ops,,,,0,,,BR,,0
+48104,cer_sb_br_darkops_6,0,0,1,64938,5000,Dark Ops,,,,0,,,BR,,0
+48105,cer_sb_br_darkops_7,0,0,1,64939,5000,Dark Ops,,,,0,,,BR,,0
+48106,cer_sb_br_darkops_8,0,0,1,64940,5000,Dark Ops,,,,0,,,BR,,0
+48107,cer_sb_br_darkops_9,0,0,1,64941,5000,Dark Ops,,,,0,,,BR,,0
+48108,cer_sb_br_darkops_10,0,0,1,64942,5000,Dark Ops,,,,0,,,BR,,0
+48109,cer_sb_br_darkops_11,0,0,1,64943,5000,Dark Ops,,,,0,,,BR,,0
+48110,cer_sb_br_darkops_12,0,0,1,64976,5000,Dark Ops,,,,0,,,BR,,0
+48111,cer_sb_br_darkops_13,0,0,1,64944,5000,Dark Ops,,,,0,,,BR,,0
+48112,cer_sb_br_darkops_14,0,0,1,64945,5000,Dark Ops,,,,0,,,BR,,0
+48113,cer_sb_br_darkops_15,0,0,1,64946,5000,Dark Ops,,,,0,,,BR,,0
+49077,cer_sb_br_darkops_16,0,0,1,72214,5000,Dark Ops,,48097,,0,,,BR,,0
+48098,cer_sb_br_darkops_mastery,0,0,15,64947,25000,Dark Ops,1,48096|48100|48101|48102|48103|48104|48105|48106|48107|48108|48109|48110|48111|48112|48113|49077,,0,,,,BR,0
+48097,cer_sb_br_darkops_hidden_camo_tracker,0,0,33,,,,,38866|40273|40615|43944|43996|45394|45343|45292|45241|45190|43575|45139|45088|45037|44986|44935|44884|44833|44782|44731|44680|44629|44578|44527|44476|44425|44374|44323|44272|44221|44170|44119|44068|49806|50282|49857|50223|49753|49908|50098|50547|50394|5044,,0,,,,,0
+48337,cer_sb_br_core_mastery,0,0,3,64948,25000,Total Completion,2,48331|48333|48335,,0,,,,BR,0
+48422,cer_sb_sp_imaginative_killer_1,0,0,3,64949,,Career,1,,,0,,,,SP,0
+48423,cer_sb_sp_imaginative_killer_2,0,0,1,64950,,Career,1,,,0,,,,SP,0
+48424,cer_sb_sp_imaginative_killer_3,0,0,1,64951,,Career,1,,,0,,,,SP,0
+48425,cer_sb_sp_imaginative_killer_4,0,0,10,64952,,Career,1,,,0,,,,SP,0
+48426,cer_sb_sp_imaginative_killer_5,0,0,12,64953,,Career,1,,,0,,,,SP,0
+48427,cer_sb_sp_imaginative_killer_6,0,0,5,64954,,Career,1,,,0,,,,SP,0
+48430,cer_sb_sp_imaginative_killer_mastery,0,0,6,64955,,Career,1,48422|48423|48424|48425|48426|48427,,0,,,,,0
+48432,cer_sb_sp_thorough_investigator_1,0,0,3,64956,,Career,1,,,0,,,,SP,0
+48431,cer_sb_sp_thorough_investigator_2,0,0,4,64957,,Career,1,,,0,,,,SP,0
+48433,cer_sb_sp_thorough_investigator_3,0,0,5,64958,,Career,1,,,0,,,,SP,0
+48434,cer_sb_sp_thorough_investigator_4,0,0,3,64959,,Career,1,,,0,,,,SP,0
+48435,cer_sb_sp_thorough_investigator_5,0,0,13,64960,,Career,1,,,0,,,,SP,0
+48436,cer_sb_sp_thorough_investigator_6,0,0,9,64961,,Career,1,,,0,,,,SP,0
+48437,cer_sb_sp_thorough_investigator_mastery,0,0,6,64962,,Career,1,48432|48431|48433|48434|48435|48436,,0,,,,,0
+48755,cer_sb_sp_career_mastery,0,0,2,64968,,Career Completion,2,48430|48437,,0,,,,,0
+48440,cer_sb_sp_darkops_1,0,0,1,64963,,Dark Ops,,,,0,,,,SP,0
+48441,cer_sb_sp_darkops_2,0,0,4,64964,,Dark Ops,,,,0,,,,SP,0
+48442,cer_sb_sp_darkops_3,0,0,5,64965,,Dark Ops,,,,0,,,,SP,0
+48443,cer_sb_sp_darkops_4,0,0,1,64966,,Dark Ops,,,,0,,,,SP,0
+48444,cer_sb_sp_darkops_mastery,0,0,4,64967,,Dark Ops,1,48440|48441|48442|48443,,0,,,,,0

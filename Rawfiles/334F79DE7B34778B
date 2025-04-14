@@ -1,0 +1,38 @@
+                                          
+
+                                                                     
+                                                                                                                           
+exec mp\stats\cer\loadouts_public_cer_prestige
+
+                     
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "archetype" "archetype_assault"
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "archetypePerk" "specialty_null"
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "archetypeSuper" "super_ammo_drop"
+
+                         
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "gesture" "ui_gesture_thumbs_up"
+
+                 
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "cpLoadoutSel" 0
+
+                            
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "cpFieldUpgrade" "role_tank"
+
+                    
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "munitionSetups" 0 "munition" "empty1"
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "munitionSetups" 1 "munition" "empty2"
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "munitionSetups" 2 "munition" "empty3"
+
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "munitionWaveModeSetups" 0 "munition" "empty1"
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "munitionWaveModeSetups" 1 "munition" "empty2"
+setStorageFile "cerberus_mp_loadouts" "squadMembers" "munitionWaveModeSetups" 2 "munition" "empty3"
+
+setStorageFile "cerberus_mp_loadouts" "customizationSetup" "emoteCustomization" "emotes" 0 62446
+setStorageFile "cerberus_mp_loadouts" "customizationSetup" "emoteCustomization" "emotes" 1 58319
+setStorageFile "cerberus_mp_loadouts" "customizationSetup" "emoteCustomization" "emotes" 2 58321
+setStorageFile "cerberus_mp_loadouts" "customizationSetup" "emoteCustomization" "emotes" 3 82880
+
+setStorageFile "cerberus_mp_loadouts" "customizationSetup" "sprayCustomization" "sprays" 0 #x442be39dc8beb1579
+setStorageFile "cerberus_mp_loadouts" "customizationSetup" "sprayCustomization" "sprays" 1 #x442be36dc8beb1060
+setStorageFile "cerberus_mp_loadouts" "customizationSetup" "sprayCustomization" "sprays" 2 #x442be37dc8beb1213
+setStorageFile "cerberus_mp_loadouts" "customizationSetup" "sprayCustomization" "sprays" 3 #x442be3cdc8beb1a92

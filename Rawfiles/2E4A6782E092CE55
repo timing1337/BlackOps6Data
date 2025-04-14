@@ -1,0 +1,2 @@
+setStorageFile "cerberus_zm_playerdata" "rankedMatchData" "backpackSize" 8
+setStorageFile "cerberus_zm_playerdata" "rankedMatchData" "brBackpackSize" 8

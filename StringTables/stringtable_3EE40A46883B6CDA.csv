@@ -1,0 +1,17 @@
+include,omnvars/br/gametypes/omnvars_br.csv,,,,,,
+is_in_training_course_tutorial_station,1,,c,b,0,0,1
+training_course_current_station_unique_id,1,,c,i,-1,-1,100
+training_course_current_station_type,1,,c,i,-1,-1,100
+show_training_course_triptychs,1,,c,i,-1,-1,2147483646
+current_tutorial_has_preview,1,,c,b,0,0,1
+training_course_station_supports_instructions,1,,c,b,0,0,1
+training_course_fail_hint_string_index,1,,c,i,-1,-1,2147483646
+training_course_in_station_range,1,,c,i,-1,-1,2147483646
+training_course_update_tutorial_list,1,,c,i,-1,-1,2147483646
+training_course_tutorial_completed,1,,c,i,-1,-1,64
+training_course_current_objective_string_index,1,,c,i,-1,-1,2147483646
+training_course_current_objective_type,1,,c,i,-1,-1,100
+training_course_current_hint_string_index,1,,c,i,-1,-1,2147483646
+training_course_leave_game_request,1,,c,b,0,0,1
+training_course_current_targets_hit_and_total_targets,1,,c,i,-1,-1,2147483646
+training_course_show_target_counter,1,,c,b,0,0,1

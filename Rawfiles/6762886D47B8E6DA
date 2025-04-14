@@ -1,0 +1,22 @@
+{
+	"playlists": [
+		{
+			"playlist": 21,
+			"name": "#CER - TDM",
+			"gamemode": "mp_t10",
+			"playMenuRef": "playmenumodebutton:cer_tdm"
+		},
+		{
+			"playlist": 65,
+			"name": "#COD Next",
+			"gamemode": "br_wz2",
+			"playMenuRef": "playmenumodebutton:cer_codnext_wz_resurgence_area99"
+		},
+		{
+			"playlist": 145,
+			"name": "#Liberty Falls",
+			"gamemode": "zm_t10",
+			"playMenuRef": "playmenumodebutton:cer_zm_garnet"
+		}
+	]
+}

@@ -1,0 +1,119 @@
+                                          
+
+setStorageFile "cerberus_mp_leagueplayloadouts" "design_version_loadouts_lp" 5
+
+                               
+setStorageFile "cerberus_mp_leagueplayloadouts" "squadMembers" "defaultSet" 1
+setStorageFile "cerberus_mp_leagueplayloadouts" "squadMembers" "inUse" 1
+
+                             
+setStorageFile "cerberus_mp_leagueplayloadouts" "killstreakSetups" 0 "killstreakLootID" 30749
+setStorageFile "cerberus_mp_leagueplayloadouts" "killstreakSetups" 1 "killstreakLootID" 30750
+
+
+                         
+
+                 
+setStorageFile_loc "cerberus_mp_leagueplayloadouts" "loadouts" 0 "name" "LP/RANKED_AR_LOADOUT"
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "inUse" 1
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "weaponLootID" 35282
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 54713
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 48342
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 48310
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 48364
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "attachmentSetup" 4 "attachmentLootID" 48316
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "weaponLootID" 17768
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 58549
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 48821
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 48790
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "attachmentSetup" 4 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "equipmentSetups" 0 "equipmentLootID" 30581
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "equipmentSetups" 1 "equipmentLootID" 30583
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "perkLootIDs" 0 62262
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "perkLootIDs" 1 30640
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "perkLootIDs" 2 30606
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "perkLootIDs" 3 36547
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "perkBonusLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 0 "wildcardLootID" 54028
+
+
+                  
+setStorageFile_loc "cerberus_mp_leagueplayloadouts" "loadouts" 1 "name" "LP/RANKED_SMG_LOADOUT"
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "inUse" 1
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "weaponLootID" 17743
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 0 "attachmentLootID" 46346
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 1 "attachmentLootID" 46350
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 2 "attachmentLootID" 48630
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 3 "attachmentLootID" 46078
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "attachmentSetup" 4 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 0 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 1 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 2 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "stickerLootIDs" 3 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "reticleLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "weaponVariantID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 0 "weaponBuildIndex" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "weaponLootID" 17768
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 0 "attachmentLootID" 58549
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 1 "attachmentLootID" 48821
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 2 "attachmentLootID" 48790
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "attachmentSetup" 4 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 0 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 1 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 2 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "stickerLootIDs" 3 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "reticleLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "weaponVariantID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 1 "weaponBuildIndex" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "weaponLootID" 17750
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 0 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 1 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 2 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "attachmentSetup" 3 "attachmentLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 0 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 1 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 2 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "stickerLootIDs" 3 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "reticleLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "weaponVariantID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "weaponSetups" 2 "weaponBuildIndex" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "equipmentSetups" 0 "equipmentLootID" 30581
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "equipmentSetups" 1 "equipmentLootID" 30583
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "perkLootIDs" 0 62262
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "perkLootIDs" 1 30640
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "perkLootIDs" 2 30606
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "perkLootIDs" 3 36547
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "perkBonusLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "fieldUpgradeSetups" 0 "fieldUpgradeLootID" 30687
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "fieldUpgradeSetups" 1 "fieldUpgradeLootID" 0
+setStorageFile "cerberus_mp_leagueplayloadouts" "loadouts" 1 "wildcardLootID" 54028

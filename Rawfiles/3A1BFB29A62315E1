@@ -1,0 +1,27 @@
+                                                      
+exec default_sp.cfg
+
+exec t10_core_settings.cfg
+
+set #x37b5549fcfa5138bc 10
+set #x3b3f6a1a08afe923 5
+set #x3b0d2b3f42a2114ac 1
+set #x3229e0ed6b3a662e5 1
+set #x3e7dd93cf7a24886d 0
+set #x3cbb1ab6ea4484203 0
+set #x3836f52e783148581 1
+set #x3b2458df3c697a1f4 1
+
+set #x395326818df98c4b5 0
+set #x316d34a16446f2553 1
+set #x3dfabcce552b9d3d5 0.0 0.0
+set #x3d0e882b1e964c993 8
+set #x351ff066fd89d38d3 0.1
+set #x32fb5e4f41b43e8a3 0.1
+set #x360c30e5303a34a51, -100 100 10
+set #x34c4e9468eed2aed6 50
+
+set #x33d7c347a3fadfcd7 375
+set #x346fbb4c9796b54c9 50
+
+set #x3b7f593efea443328 0

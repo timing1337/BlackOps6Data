@@ -1,0 +1,20 @@
+                                                                                         
+                                          
+
+                               
+                 
+setCerberusNonGamePlayerData "cross_play_enabled" 1
+setCerberusNonGamePlayerData "rankedplay_crossplay_enabled" 1
+setCerberusNonGamePlayerData "core_mp_crossplay_setting" 0
+setCerberusNonGamePlayerData "core_zm_crossplay_setting" 0
+setCerberusNonGamePlayerData "core_wz_crossplay_setting" 0
+setCerberusNonGamePlayerData "rankedplay_crossplay_setting" 0
+setCerberusNonGamePlayerData "rankedplay_wz_crossplay_setting" 0
+
+                     
+setCerberusNonGamePlayerData "customization_background" 0 813
+setCerberusNonGamePlayerData "customization_patch" 0 806
+
+                          
+exec mp\stats_init_cerberus_zm_loadouts
+exec mp\stats_init_cerberus_zm_stats

@@ -1,0 +1,10 @@
+               
+exec default_mp.cfg
+
+                                                       
+set #x3ef237da69bb64ef6						mp_t10_radar
+
+                      
+exec t10_core_settings.cfg
+
+                                                                                                                                                          
