@@ -13,4 +13,4 @@ Repository containing some miscellaneous data for Call of Duty: Black Ops 6. You
 | Network Constant String      | ✅         |
 | Luafile                      | ❌         |
 | Scriptable                   | ❌         |
-| Animation Packages           | ❌         |
+| Animation Packages           | ✅         |
